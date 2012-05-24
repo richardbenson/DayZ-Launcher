@@ -26,8 +26,8 @@ namespace DayZ_Launcher
 
         Dictionary<string, string> strArmaRegLocation = new Dictionary<string, string>()
         {
-            { "x86", "SOFTWARE\\Bohemia Interactive Studio\\ArmA 2"},
-            { "x64", "SOFTWARE\\Wow6432Node\\Bohemia Interactive Studio\\ArmA 2" }
+            { "x86", "SOFTWARE\\Bohemia Interactive Studio\\ArmA 2 OA"},
+            { "x64", "SOFTWARE\\Wow6432Node\\Bohemia Interactive Studio\\ArmA 2 OA" }
         };
 
         Queue<URLToDownload> downloadList = new Queue<URLToDownload>();
