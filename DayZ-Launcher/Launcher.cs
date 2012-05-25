@@ -1,20 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
+using System.Diagnostics;
+using System.IO;
+using System.Net;
+using System.Security.Principal;
+using System.Text.RegularExpressions;
 using System.Windows.Forms;
 using Microsoft.Win32;
-using System.IO;
-using System.Diagnostics;
-using System.Net;
-using System.Text.RegularExpressions;
-using SharpCompress;
-using SharpCompress.Archive;
-using SharpCompress.Reader;
 using SharpCompress.Common;
+using SharpCompress.Reader;
 
 namespace DayZ_Launcher
 {
@@ -35,6 +30,30 @@ namespace DayZ_Launcher
         public Launcher()
         {
             InitializeComponent();
+        }
+
+        public void Elevate()
+        {
+            //We need Admin for almost everything in here
+            // Needs UAC elevation for webmin to run
+            WindowsPrincipal principal = new WindowsPrincipal(WindowsIdentity.GetCurrent());
+            bool hasAdministrativeRight = principal.IsInRole(WindowsBuiltInRole.Administrator);
+
+            if (!hasAdministrativeRight)
+            {
+                ProcessStartInfo processInfo = new ProcessStartInfo();
+                processInfo.Verb = "runas";
+                processInfo.FileName = Application.ExecutablePath;
+                try
+                {
+                    Process.Start(processInfo);
+                }
+                catch
+                {
+                    Environment.Exit(0);
+                }
+                Environment.Exit(0);
+            }
         }
 
         public void StartUp(object sender, EventArgs e)
@@ -335,9 +354,14 @@ namespace DayZ_Launcher
                         catch (Exception e) { MessageBox.Show("Unable to set modified date for URL: " + getFile.URL + "; " + e.Message); }
                     }
                 }
-                //Grab the response
+                //Grab the response, will throw an exception if it's a 304 (not modified)
                 HttpWebResponse response = (HttpWebResponse)request.GetResponse();
 
+
+                //We need to check if an elevation is required
+                if (this.strBasePath.IndexOf("Program Files") > 0) Elevate();
+
+                //Download the file
                 bgDownloadWorker.RunWorkerAsync(getFile);
                 response.Close();
 
