@@ -25,6 +25,8 @@ namespace DayZ_Launcher
             { "x64", "SOFTWARE\\Wow6432Node\\Bohemia Interactive Studio\\ArmA 2 OA" }
         };
 
+        string strSteamRegPath = "SOFTWARE\\Valve\\Steam";
+
         Queue<URLToDownload> downloadList = new Queue<URLToDownload>();
 
         public Launcher()
@@ -111,8 +113,30 @@ namespace DayZ_Launcher
             lblStatus.Text = "Starting DayZ...";
             Process prcDayZ = new Process();
 
-            prcDayZ.StartInfo.FileName = this.strBasePath + @"\arma2oa.exe";
-            prcDayZ.StartInfo.Arguments = @"-mod=@dayz -nosplash";
+            //Is it the Steam version? If so, we need different parameters
+            if (strBasePath.IndexOf("steamapps") > 0)
+            {
+                try
+                {
+                    RegistryKey rk = Registry.CurrentUser;
+                    RegistryKey subKey = rk.OpenSubKey(strSteamRegPath);
+                    if (subKey != null)
+                    {
+                        prcDayZ.StartInfo.FileName = subKey.GetValue("SteamExe").ToString();
+                    }
+                }
+                catch
+                {
+                    MessageBox.Show("Unable to find Steam");
+                    Environment.Exit(0);
+                }
+                prcDayZ.StartInfo.Arguments = @"-applaunch 33930 -mod=@dayz -nosplash";
+            }
+            else
+            {
+                prcDayZ.StartInfo.FileName = this.strBasePath + @"\arma2oa.exe";
+                prcDayZ.StartInfo.Arguments = @"-mod=@dayz -nosplash";
+            }
 
             prcDayZ.Start();
 
