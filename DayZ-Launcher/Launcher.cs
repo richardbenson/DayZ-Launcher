@@ -19,10 +19,16 @@ namespace DayZ_Launcher
         string strCurrentCDN;
         string strBasePath;
 
-        Dictionary<string, string> strArmaRegLocation = new Dictionary<string, string>()
+        Dictionary<string, string> strArmaOARegLocation = new Dictionary<string, string>()
         {
             { "x86", "SOFTWARE\\Bohemia Interactive Studio\\ArmA 2 OA"},
             { "x64", "SOFTWARE\\Wow6432Node\\Bohemia Interactive Studio\\ArmA 2 OA" }
+        };
+
+        Dictionary<string, string> strArmaRegLocation = new Dictionary<string, string>()
+        {
+            { "x86", "SOFTWARE\\Bohemia Interactive Studio\\ArmA 2"},
+            { "x64", "SOFTWARE\\Wow6432Node\\Bohemia Interactive Studio\\ArmA 2" }
         };
 
         string strSteamRegPath = "SOFTWARE\\Valve\\Steam";
@@ -65,7 +71,7 @@ namespace DayZ_Launcher
             strCurrentCDN = strDefaultCDN;
 
             //Fetch the Arma Path
-            this.strBasePath = GetArmaPath();
+            this.strBasePath = GetArmaOAPath();
             if (strBasePath == "")
             {
                 bool bolPathOK = false;
@@ -130,7 +136,8 @@ namespace DayZ_Launcher
                     MessageBox.Show("Unable to find Steam");
                     Environment.Exit(0);
                 }
-                prcDayZ.StartInfo.Arguments = @"-applaunch 33930 -mod=@dayz -nosplash";
+                string strArmaPath = GetArmaPath();
+                prcDayZ.StartInfo.Arguments = "-applaunch 33930 \"-mod=" + strArmaPath + ";EXPANSION;ca;@dayz\"";
             }
             else
             {
@@ -193,6 +200,24 @@ namespace DayZ_Launcher
             {
                 RegistryKey rk = Registry.LocalMachine;
                 RegistryKey subKey = rk.OpenSubKey(strArmaRegLocation[GetBitness()]);
+                if (subKey != null)
+                {
+                    return subKey.GetValue("MAIN").ToString();
+                }
+                else return "";
+            }
+            catch
+            {
+                return "";
+            }
+        }
+
+        private string GetArmaOAPath()
+        {
+            try
+            {
+                RegistryKey rk = Registry.LocalMachine;
+                RegistryKey subKey = rk.OpenSubKey(strArmaOARegLocation[GetBitness()]);
                 if (subKey != null)
                 {
                     return subKey.GetValue("MAIN").ToString();
