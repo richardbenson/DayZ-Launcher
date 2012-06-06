@@ -119,30 +119,53 @@ namespace DayZ_Launcher
             lblStatus.Text = "Starting DayZ...";
             Process prcDayZ = new Process();
 
-            //Is it the Steam version? If so, we need different parameters
-            if (strBasePath.IndexOf("steamapps") > 0)
+            //Detect if beta patch installed
+            bool bolBetaInstalled = Directory.Exists(this.strBasePath + @"\Expansion\beta");
+            string strArmaPath = GetArmaPath();
+
+            if (!bolBetaInstalled)
             {
-                try
+                //Is it the Steam version? If so, we need different parameters
+                if (strBasePath.IndexOf("steamapps") > 0)
                 {
-                    RegistryKey rk = Registry.CurrentUser;
-                    RegistryKey subKey = rk.OpenSubKey(strSteamRegPath);
-                    if (subKey != null)
+                    try
                     {
-                        prcDayZ.StartInfo.FileName = subKey.GetValue("SteamExe").ToString();
+                        RegistryKey rk = Registry.CurrentUser;
+                        RegistryKey subKey = rk.OpenSubKey(strSteamRegPath);
+                        if (subKey != null)
+                        {
+                            prcDayZ.StartInfo.FileName = subKey.GetValue("SteamExe").ToString();
+                        }
                     }
+                    catch
+                    {
+                        MessageBox.Show("Unable to find Steam");
+                        Environment.Exit(0);
+                    }
+                    prcDayZ.StartInfo.Arguments = "-applaunch 33930 \"-mod=" + strArmaPath + ";EXPANSION;ca;@dayz\"";
                 }
-                catch
+                else
                 {
-                    MessageBox.Show("Unable to find Steam");
-                    Environment.Exit(0);
+                        //Run regular Arma
+                        prcDayZ.StartInfo.FileName = this.strBasePath + @"\arma2oa.exe";
+                        prcDayZ.StartInfo.Arguments = @"-mod=@dayz -nosplash";
                 }
-                string strArmaPath = GetArmaPath();
-                prcDayZ.StartInfo.Arguments = "-applaunch 33930 \"-mod=" + strArmaPath + ";EXPANSION;ca;@dayz\"";
             }
             else
             {
-                prcDayZ.StartInfo.FileName = this.strBasePath + @"\arma2oa.exe";
-                prcDayZ.StartInfo.Arguments = @"-mod=@dayz -nosplash";
+                //Run with beta patch
+                //"E:\Game Files\Bohemia Interactive\ArmA 2\Expansion\beta\arma2oa.exe" -beta=Expansion\beta;Expansion\beta\Expansion;@DayZ -nosplash
+                string strArgs = "";
+                //if (strBasePath.IndexOf("steamapps") > 0)
+                //{
+                //    strArgs += " -mod=" + strArmaPath + ";EXPANSION;ca";
+                //}
+                strArgs += " -beta=Expansion\\beta;Expansion\\beta\\Expansion;@DayZ -nosplash";
+                prcDayZ.StartInfo.FileName = this.strBasePath + @"\Expansion\beta\arma2oa.exe";
+                prcDayZ.StartInfo.Arguments = strArgs;
+                prcDayZ.StartInfo.WorkingDirectory = this.strBasePath;
+
+                MessageBox.Show(strArgs);
             }
 
             prcDayZ.Start();
@@ -460,17 +483,6 @@ namespace DayZ_Launcher
         {
             public string URL { get; set; }
             public string File { get; set; }
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            this.StartUp();
-
-        }
-
-        private void StartUp()
-        {
-        
         }
     }
 }
