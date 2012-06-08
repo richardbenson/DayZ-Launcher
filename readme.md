@@ -1,6 +1,6 @@
 #DayZ Launcher and Updater
 
-Install from [here](http://www.richardbenson.co.uk/dayz/setup.exe)
+Install from [here](http://www.richardbenson.co.uk/2012/05/dayz-launcher-and-updater.html)
 
 A simple launcher to keep [DayZ](http://www.dayzmod.com) up to date and to run the mod without any manual creation of shortcuts or even selection of directories.
 

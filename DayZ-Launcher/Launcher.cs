@@ -164,8 +164,6 @@ namespace DayZ_Launcher
                 prcDayZ.StartInfo.FileName = this.strBasePath + @"\Expansion\beta\arma2oa.exe";
                 prcDayZ.StartInfo.Arguments = strArgs;
                 prcDayZ.StartInfo.WorkingDirectory = this.strBasePath;
-
-                MessageBox.Show(strArgs);
             }
 
             prcDayZ.Start();
