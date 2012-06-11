@@ -142,13 +142,13 @@ namespace DayZ_Launcher
                         MessageBox.Show("Unable to find Steam");
                         Environment.Exit(0);
                     }
-                    prcDayZ.StartInfo.Arguments = "-applaunch 33930 \"-mod=" + strArmaPath + ";EXPANSION;ca;@dayz\"";
+                    prcDayZ.StartInfo.Arguments = "-applaunch 33930 \"-mod=" + strArmaPath + ";EXPANSION;ca;@dayz -world=Chernarus\"";
                 }
                 else
                 {
                         //Run regular Arma
                         prcDayZ.StartInfo.FileName = this.strBasePath + @"\arma2oa.exe";
-                        prcDayZ.StartInfo.Arguments = @"-mod=@dayz -nosplash";
+                        prcDayZ.StartInfo.Arguments = @"-mod=@dayz -nosplash -world=Chernarus";
                 }
             }
             else
@@ -160,7 +160,7 @@ namespace DayZ_Launcher
                 //{
                 //    strArgs += " -mod=" + strArmaPath + ";EXPANSION;ca";
                 //}
-                strArgs += " -beta=Expansion\\beta;Expansion\\beta\\Expansion;@DayZ -nosplash";
+                strArgs += " -beta=Expansion\\beta;Expansion\\beta\\Expansion;@DayZ -nosplash -world=Chernarus";
                 prcDayZ.StartInfo.FileName = this.strBasePath + @"\Expansion\beta\arma2oa.exe";
                 prcDayZ.StartInfo.Arguments = strArgs;
                 prcDayZ.StartInfo.WorkingDirectory = this.strBasePath;
