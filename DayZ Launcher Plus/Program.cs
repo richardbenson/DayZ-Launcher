@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace DayZ_Launcher_Plus
+namespace DZLP
 {
     static class Program
     {
@@ -15,7 +15,7 @@ namespace DayZ_Launcher_Plus
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new LauncherPlus());
         }
     }
 }

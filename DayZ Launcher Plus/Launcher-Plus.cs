@@ -7,19 +7,31 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Net;
+using DZLP.Objects;
 
-namespace DayZ_Launcher_Plus
+namespace DZLP
 {
-    public partial class Form1 : Form
+    public partial class LauncherPlus : Form
     {
-        public Form1()
+        string DefaultCDN = "http://cdn.armafiles.info/latest/";
+        string CurrentCDN;
+
+        List<Server> ServerList = new List<Server>();
+        
+        public LauncherPlus()
         {
             InitializeComponent();
         }
 
         public void StartUp(object sender, EventArgs e)
         {
+            //Fetch the list of servers from Gamespy
+            this.ServerList = Util.GetServerList();
         }
 
+        internal void UpdateStatus(string strMessage)
+        {
+            lblStatus.Invoke((Action)(() => lblStatus.Text = strMessage));
+        }
     }
 }

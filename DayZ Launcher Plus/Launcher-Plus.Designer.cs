@@ -1,6 +1,6 @@
-﻿namespace DayZ_Launcher_Plus
+﻿namespace DZLP
 {
-    partial class Form1
+    partial class LauncherPlus
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LauncherPlus));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
@@ -48,7 +48,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::DayZ_Launcher_Plus.Properties.Resources.banner;
+            this.pictureBox1.Image = global::DZLP.Properties.Resources.banner;
             this.pictureBox1.Location = new System.Drawing.Point(12, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(231, 117);
@@ -178,7 +178,7 @@
             this.label5.TabIndex = 12;
             this.label5.Text = "Beta version:";
             // 
-            // Form1
+            // LauncherPlus
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -198,7 +198,7 @@
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.pictureBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Form1";
+            this.Name = "LauncherPlus";
             this.Text = "DayZ Launcher Plus";
             this.Load += new System.EventHandler(this.StartUp);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

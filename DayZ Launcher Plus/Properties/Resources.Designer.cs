@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DayZ_Launcher_Plus.Properties {
+namespace DZLP.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace DayZ_Launcher_Plus.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("DayZ_Launcher_Plus.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("DZLP.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -64,6 +64,13 @@ namespace DayZ_Launcher_Plus.Properties {
             get {
                 object obj = ResourceManager.GetObject("banner", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static byte[] gslist {
+            get {
+                object obj = ResourceManager.GetObject("gslist", resourceCulture);
+                return ((byte[])(obj));
             }
         }
     }
