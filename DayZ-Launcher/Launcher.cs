@@ -15,7 +15,7 @@ namespace DayZ_Launcher
 {
     public partial class Launcher : Form
     {
-        string strDefaultCDN = "http://cdn.armafiles.info/";
+        string strDefaultCDN = "http://cdn.armafiles.info/latest/";
         string strCurrentCDN;
         string strBasePath;
 

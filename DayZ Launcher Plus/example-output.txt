@@ -1,0 +1,535 @@
+108.60.128.146:2326 \hostname\DayZ Bashurverse 3 [FILMING SERVER - CREW ONLY] - NY - hostaltitude.com (v1.6.0.1)\gamever\1.60.87548\numplayers\0\maxplayers\10\mapname\Chernarus
+199.116.113.83:2302 \hostname\DayZ Zombie RPG - Atlanta 10 (v1.7) dayzmod.com - Hosted by teamsaints.org\gamever\1.60.93825\numplayers\7\maxplayers\50\mapname\Chernarus
+85.236.105.41:2402 \hostname\DayZ DE #50 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\4\maxplayers\30\mapname\Chernarus
+62.141.45.63:2302 \hostname\frohzn Dedicated Server [1.6.0.1]\gamever\1.60.87548\numplayers\16\maxplayers\45\mapname\Chernarus
+74.63.255.146:2414 \hostname\DayZ Zombie RPG - Dallas 31 (v1.7) Beta Required dayzmod.com - Hosted by booshninja.com\gamever\1.60.93825\numplayers\17\maxplayers\25\mapname\Chernarus
+108.60.128.220:2302 \hostname\DayZ - US17 (Old NY16)(v1.7.0/Beta 93825) [VETERAN 3DP:OFF][GMT-4] dayzmod.com - hosted by SWEBAT.nu\gamever\1.60.93825\numplayers\2\maxplayers\50\mapname\Chernarus
+176.9.103.166:2302 \hostname\DayZ - BE 1 (1.7.1.1/B93825)[VETERAN 3DP:ON, CH:ON][GMT+1] dayzmod.com - hosted by 9cakes.com\gamever\1.60.93825\numplayers\30\maxplayers\50\mapname\Chernarus
+85.236.105.40:2502 \hostname\DayZ DE #39 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\10\maxplayers\50\mapname\Chernarus
+85.236.105.41:2702 \hostname\DayZ DE #53 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\16\maxplayers\30\mapname\Chernarus
+203.167.236.183:2702 \hostname\DayZ - NZ9 (v1.7.1.1/Beta 93825) [MAXPING:100][REGULAR][UTC+8] dayzmod.com - Hosted by ON3 Network\gamever\1.60.93825\numplayers\49\maxplayers\50\mapname\Chernarus
+74.63.255.146:2402 \hostname\DayZ Zombie RPG - Dallas 30 (v1.7) Beta Required dayzmod.com - Hosted by CartoonJustice.info\gamever\1.60.93825\numplayers\4\maxplayers\50\mapname\Chernarus
+5.9.5.171:2502 \hostname\DayZ - EU9 (v1.7.1.1) [EXPERT 3DP:off|CH:off|UTC] - hosted by =Olut= SISU - CanardPC.com\gamever\1.60.93825\numplayers\33\maxplayers\40\mapname\Chernarus
+176.9.39.181:2302 \hostname\DayZ - EU8 (v1.7.1.1) [VETERAN 3DP:on|CH:off|UTC-3] - hosted by =Olut= SISU - ASG Server\gamever\1.60.93825\numplayers\34\maxplayers\35\mapname\Chernarus
+23.29.118.42:2302 \hostname\DayZ - US 26 (v1.7.1.1/Beta 93825) [REGULAR][UTC-08:00] - dayzmod.com\gamever\1.60.93825\numplayers\21\maxplayers\50\mapname\Chernarus
+69.162.80.146:2302 \hostname\DayZ - US 13 Dallas (1.7.1.1/Beta 93825) [Veteran][GMT-6] dayzmod.com - hosted by VudooHosting.com\gamever\1.60.93825\numplayers\30\maxplayers\50\mapname\Chernarus
+199.116.118.10:2302 \hostname\DayZ Zombie RPG - Atlanta 30 (v1.7) dayzmod.com - Hosted by Gadd/hfbservers.com\gamever\1.60.93825\numplayers\1\maxplayers\30\mapname\Chernarus
+85.236.105.37:2302 \hostname\DayZ DE #28 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\7\maxplayers\50\mapname\Chernarus
+216.231.138.234:2302 \hostname\DayZ Zombie RPG - Chicago 44 (v1.7) dayzmod.com - Hosted by 3DLM CLAN\gamever\1.60.93825\numplayers\20\maxplayers\25\mapname\Chernarus
+85.236.105.39:2302 \hostname\DayZ DE #30 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\14\maxplayers\50\mapname\Chernarus
+94.254.34.149:2302 \hostname\DayZ - SE 9 (v1.7.1.1/Beta 93825) [VETERAN|3DP:ON|LIGHTING:FILMIC][UTC-6] dayzmod.com - Hosted by Tansien\gamever\1.60.93825\numplayers\50\maxplayers\50\mapname\Chernarus
+66.150.164.58:2302 \hostname\DayZ - US 41 Seattle 12 - (v1.7/93616) TARKOVSKY - [VET CH ON TAGS OFF 3DP ON](UTC -6) dayzmod.com - run by mediumdifficulty.com\gamever\1.60.93825\numplayers\8\maxplayers\50\mapname\Chernarus
+108.60.143.126:2302 \hostname\DayZ - US73 (v1.7.1)(Beta_93825)  [REGULAR][GMT-5] Breakaway Server - Hosted by Host Altitude\gamever\1.60.93825\numplayers\2\maxplayers\50\mapname\Chernarus
+46.4.85.72:2700 \hostname\DayZ Zombie RPG - DE9 (1.7.1) place2be - visit myp2b.de (Powered by DAO.nu)\gamever\1.60.93825\numplayers\7\maxplayers\20\mapname\Chernarus
+23.29.116.243:2302 \hostname\DayZ Zombie RPG - US84 TX9 (v1.7.1)[Regular][CDT-5] dayzmod.com - hosted by Host Altitude (ran by flickenmaste)\gamever\1.60.93825\numplayers\3\maxplayers\40\mapname\Chernarus
+88.198.87.213:2302 \hostname\DayZ - EU6 (v1.7.1.1) [REGULAR 3DP:on|CH:on|UTC] - hosted by =Olut= SISU (olutta.org) - Leks\gamever\1.60.93825\numplayers\38\maxplayers\40\mapname\Chernarus
+208.115.199.210:2302 \hostname\DayZ Zombie RPG - Dallas 53 (v1.7.1.1) dayzmod.com - Hosted by VigilantAddiction.com\gamever\1.60.93702\numplayers\38\maxplayers\40\mapname\Chernarus
+199.116.113.84:2414 \hostname\DayZ Zombie RPG - Atlanta 17 (v1.7) dayzmod.com - Hosted by [ks] clan\gamever\1.60.93825\numplayers\7\maxplayers\25\mapname\Chernarus
+199.116.118.11:2342 \hostname\DayZ Zombie RPG - Atlanta 43 (v1.7.1.1/beta93825 3dp:1 maxping:200) dayzmod.com - Hosted by Permaphrost\gamever\1.60.93825\numplayers\4\maxplayers\35\mapname\Chernarus
+78.46.112.103:2310 \hostname\Dayz Zombie RPG - EU2 (v1.7.0) dayzmod.com\gamever\1.60.93123\numplayers\23\maxplayers\40\mapname\Chernarus
+216.244.73.82:2312 \hostname\DayZ Zombie RPG - DayZ Server (v1.7.1) dayzmod.com - Hosted by Your Friends at KSJ\gamever\1.60.93825\numplayers\6\maxplayers\50\mapname\Chernarus
+119.252.190.33:2302 \hostname\DayZ - ANZ 1 (v1.7.1.1) [VET][GMT +10] dayzmod.com - Hosted by AUSARMA.org\gamever\1.60.93825\numplayers\50\maxplayers\50\mapname\Chernarus
+188.226.94.207:2302 \hostname\DayZ - RU23 (v1.7.1.1/Beta 93825) [EXPERT RP][UTC+6] dayzmod.com - hosted by RU-GAME\gamever\1.60.93825\numplayers\29\maxplayers\30\mapname\Chernarus
+199.116.113.84:2402 \hostname\DayZ Zombie RPG - Atlanta 16 (v1.7) dayzmod.com - Hosted by MCAU\gamever\1.60.93825\numplayers\2\maxplayers\25\mapname\Chernarus
+216.172.106.5:2312 \hostname\DayZ Zombie RPG - Dallas 49 (v1.7) dayzmod.com - Hosted by dayzserverhosting.co\gamever\1.60.93825\numplayers\2\maxplayers\50\mapname\Chernarus
+108.60.128.222:2302 \hostname\DayZ Zombie RPG - US69 - (v1.7.1)(Build 93825) |HardCore| dayzmod.com - Hosted By: TenKGames\gamever\1.60.91138\numplayers\1\maxplayers\40\mapname\Chernarus
+193.200.100.25:2302 \hostname\DayZ - UK6 (v1.7.1.1/Beta 93825) [REGULAR][GMT+1] dayzmod.com - hosted by [AQ]Anquer-Quare.com\gamever\1.60.93825\numplayers\50\maxplayers\50\mapname\Chernarus
+94.242.227.6:2372 \hostname\DayZ - EU67 Saudi (1.7.1.1) dayzmod.com - Hosted by ALaiham | Vilayer.com\gamever\1.60.93702\numplayers\10\maxplayers\24\mapname\Chernarus
+199.19.111.18:2332 \hostname\DayZ Zombie RPG - NY122 (v1.7.1.1) dayzmod.com - [ONTOPiC] | Vilayer.com\gamever\1.60.93702\numplayers\2\maxplayers\50\mapname\Chernarus
+216.244.73.226:2332 \hostname\Fa7\gamever\1.60.93616\numplayers\6\maxplayers\25\mapname\Chernarus
+216.244.73.82:2332 \hostname\DayZ Zombie RPG - Seattle 25 (v1.7) dayzmod.com - Hosted by Abercius\gamever\1.60.93616\numplayers\13\maxplayers\25\mapname\Chernarus
+94.242.227.22:2302 \hostname\Dayz Zombie RPG - EU26 (v1.7.1.1) dayzmod.com - Hosted by Vilayer.com & Blizzara\gamever\1.60.93702\numplayers\17\maxplayers\30\mapname\Chernarus
+66.150.164.113:2302 \hostname\DayZ Zombie RPG - [SEATTLE] US13 (v1.7.0!) dayzmod.com - Hosted by Ducksoup Gaming\gamever\1.60.93296\numplayers\8\maxplayers\50\mapname\Chernarus
+81.88.208.156:2302 \hostname\DayZ - RU 3 (v1.7.1.1/Beta 93825) [VETERAN 3DP:OFF CH:OFF] dayzmod.com - N DuNED2DuNE arma2.ru\gamever\1.60.93825\numplayers\47\maxplayers\50\mapname\Chernarus
+74.91.119.185:2302 \hostname\DayZ Zombie RPG - Dallas 1 (v1.7.1.1.) [3rdP: ON | CH: ON] dayzmod.com - hosted by Adrenaline Gaming\gamever\1.60.93825\numplayers\34\maxplayers\35\mapname\Chernarus
+65.103.116.51:2324 \hostname\DayZ - US 32 Colorado 3  (v1.7.1.1/Beta 93825) [REGULAR][GMT-7] dayzmod.com - hosted by www.projectdizzy.com \gamever\1.60.93825\numplayers\18\maxplayers\30\mapname\Chernarus
+199.19.111.18:2322 \hostname\DayZ Zombie RPG - NY22 (v1.7.1.1) dayzmod.com - Crispy Duck Killer Clan\gamever\1.60.93702\numplayers\4\maxplayers\24\mapname\Chernarus
+216.244.73.226:2322 \hostname\DayZ Zombie RPG - Seattle 32 (v1.7.1.1) dayzmod.com - Hosted by GNG\gamever\1.60.93825\numplayers\10\maxplayers\25\mapname\Chernarus
+216.172.106.5:2332 \hostname\DayZ Zombie RPG - Dallas 51 (v1.7.1.1) dayzmod.com - Hosted by Hosted by: EX7iNC7iON & HFBServers\gamever\1.60.93825\numplayers\36\maxplayers\50\mapname\Chernarus
+216.244.73.82:2322 \hostname\DayZ Zombie RPG - Seattle 24 (v1.7.1.1) dayzmod.com - Hosted by Legion of Sparta\gamever\1.60.93825\numplayers\25\maxplayers\25\mapname\Chernarus
+216.172.106.5:2322 \hostname\DayZ Zombie RPG - Dallas 50 (v1.7.1.1) dayzmod.com - Hosted by OMG\gamever\1.60.93825\numplayers\3\maxplayers\35\mapname\Chernarus
+216.144.255.186:2314 \hostname\DayZ Zombie RPG - Dallas 34 (v1.7) Beta Required dayzmod.com - Hosted by radioghost\gamever\1.60.93825\numplayers\8\maxplayers\50\mapname\Chernarus
+216.231.139.6:2332 \hostname\DayZ Zombie RPG - Chicago 43 (v1.7) dayzmod.com - Hosted by mortisfamulor.com\gamever\1.60.93825\numplayers\13\maxplayers\50\mapname\Chernarus
+64.79.106.158:2312 \hostname\DayZ Zombie RPG - Chicago 52 (v1.7.1.1/93825 Req.) dayzmod.com - Hosted by LoWGaming.com\gamever\1.60.93825\numplayers\11\maxplayers\35\mapname\Chernarus
+216.244.73.226:2312 \hostname\DayZ Zombie RPG - Seattle 31 (v1.7.1.1) dayzmod.com - Hosted by [TG] Kenji\gamever\1.60.93825\numplayers\15\maxplayers\25\mapname\Chernarus
+96.240.10.65:2302 \hostname\DayZ - US100 New Jersey (NJ1) (v1.7.1.1/Beta 93825) [REGULAR 3DP: ON, CH: OFF][UTC-8]dayzmod.com - Hosted by [rX]\gamever\1.60.93825\numplayers\16\maxplayers\50\mapname\Chernarus
+23.29.115.254:2302 \hostname\DayZ - US78 Dallas (1.7) [3DP:1 CH:1] [UTC -6] dayzmod.com\gamever\1.60.93825\numplayers\0\maxplayers\25\mapname\Chernarus
+216.231.139.117:2302 \hostname\DayZ Zombie RPG - Chicago 48 (v1.7) dayzmod.com - Hosted by Fat-Lasagna.Com Gaming Reviews & Giveaways\gamever\1.60.93825\numplayers\9\maxplayers\30\mapname\Chernarus
+174.123.97.138:2323 \hostname\DayZ Zombie RPG - TX9 (v1.7.1.1) dayzmod.com - hosted by TacticalGamer.com\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+193.110.122.198:2305 \hostname\DayZ - PL 2 (v1.7.1.1/Beta 93825) [3DP:ON|CH:ON][UTC-6] dayzmod.com - hosted by neostrada tp/Strefa Gier\gamever\1.60.93825\numplayers\41\maxplayers\50\mapname\Chernarus
+216.244.87.170:2314 \hostname\DayZ Zombie RPG - Seattle 12 (v1.7) dayzmod.com - Hosted by HFBservers.com\gamever\1.60.93825\numplayers\3\maxplayers\25\mapname\Chernarus
+65.103.116.51:2312 \hostname\DayZ - US 30 Colorado 1 (v1.7.1.1/Beta 93825) [REGULAR][GMT-7] dayzmod.com - hosted by www.projectdizzy.com \gamever\1.60.93825\numplayers\17\maxplayers\30\mapname\Chernarus
+5.9.7.99:2402 \hostname\DayZ - EU17 (v1.7.1.1) [REGULAR 3DP:on|CH:on|UTC+1] - hosted by =Olut= SISU (olutta.org) - Predator\gamever\1.60.93825\numplayers\36\maxplayers\40\mapname\Chernarus
+74.91.114.71:2302 \hostname\DayZ - US 97 - TX 23 (v1.7.0)[VETERAN|3DP:ON|CH:ON] dayzmod.com - hosted by GeezerGaming\gamever\1.60.87548\numplayers\0\maxplayers\50\mapname\Chernarus
+23.29.115.228:2414 \hostname\DayZ Zombie RPG - US Hardcore 2 (v1.7.1.1) !Beta 93825 Required! dayzmod.com - hosted by www.13thsfg.com\gamever\1.60.93825\numplayers\6\maxplayers\50\mapname\Chernarus
+188.165.226.149:2302 \hostname\DayZ Zombie RPG - FR4 (v1.7.1.1)-VETERAN-[Beta:93825] dayzmod.com - Hosted by Tavish [UK]\gamever\1.60.93825\numplayers\28\maxplayers\40\mapname\Chernarus
+64.79.106.158:2322 \hostname\DayZ Zombie RPG - Chicago 53 (v1.7.1) dayzmod.com - Hosted by TheMercs, Get Sh!t on!\gamever\1.60.93825\numplayers\7\maxplayers\50\mapname\Chernarus
+199.116.118.2:2302 \hostname\DayZ Zombie RPG - Atlanta 21 (v1.7) dayzmod.com - Hosted by Grapejuice\gamever\1.60.93825\numplayers\1\maxplayers\45\mapname\Chernarus
+216.231.139.6:2312 \hostname\DayZ Zombie RPG - Chicago 41 (v1.7) dayzmod.com - Hosted by Hosted by: hfbservers.com\gamever\1.60.93825\numplayers\15\maxplayers\30\mapname\Chernarus
+199.116.118.11:2312 \hostname\DayZ Zombie RPG - Atlanta 36 (v1.7) dayzmod.com - Hosted by Locked for Filming\gamever\1.60.93825\numplayers\7\maxplayers\25\mapname\Chernarus
+85.25.243.219:2302 \hostname\DayZ - EU 25 (v1.7.1.1/93826) [VETERAN 3DP:ON][GMT+1] dayzmod.com - hosted by BadassGamers.com\gamever\1.60.93825\numplayers\40\maxplayers\40\mapname\Chernarus
+217.197.124.59:2302 \hostname\DayZ - RU 10 (v1.7.1.1/Beta 93825) [VETERAN|3DP:ON|CH:OFF][GMT-8] dayzmod.com - hosted by REDEAGLE.ru\gamever\1.60.93825\numplayers\19\maxplayers\50\mapname\Chernarus
+216.172.106.5:2342 \hostname\DayZ Zombie RPG- Dallas 52 (v1.7.0) dayzmod.com -OLD SCHOOL SERVER\gamever\1.60.93825\numplayers\5\maxplayers\40\mapname\Chernarus
+142.54.169.82:2302 \hostname\DayZ - US 132 (1.7.1.1 / BETA 93825) [Veteran][3DP=ON][UTC -8] - 3.4Ghz SSD Dedicated - HCFactions.net\gamever\1.60.93825\numplayers\7\maxplayers\50\mapname\Chernarus
+94.242.227.6:2332 \hostname\Dayz Zombie RPG - EU110 (v1.7.1.1) dayzmod.com - Vilayer.com\gamever\1.60.93702\numplayers\9\maxplayers\40\mapname\Chernarus
+64.79.106.158:2332 \hostname\DayZ Zombie RPG - Chicago 54 (v1.7) dayzmod.com - Hosted by DJinGA\gamever\1.60.93825\numplayers\4\maxplayers\25\mapname\Chernarus
+96.240.10.65:2314 \hostname\DayZ - US101 New Jersey (NJ2) (v1.7.1.1/Beta 93825) [REGULAR 3DP: ON, CH: OFF][UTC-11]dayzmod.com - Hosted by [rX]\gamever\1.60.93825\numplayers\7\maxplayers\50\mapname\Chernarus
+199.116.118.11:2322 \hostname\DayZ Zombie RPG - Atlanta 37 (v1.7) dayzmod.com - Hosted by Malicious Intent Gaming\gamever\1.60.93825\numplayers\2\maxplayers\50\mapname\Chernarus
+88.198.106.58:2502 \hostname\DayZ - EU10 (v1.7.1.1) [REGULAR 3DP:on|CH:off|UTC-3] - hosted by =Olut= SISU - Always Friendly\gamever\1.60.93825\numplayers\38\maxplayers\40\mapname\Chernarus
+199.116.118.11:2332 \hostname\DayZ Zombie RPG - Atlanta 38 (v1.7.1.1) dayzmod.com - Hosted by HFBservers.com\gamever\1.60.93825\numplayers\5\maxplayers\30\mapname\Chernarus
+94.242.227.6:2322 \hostname\Dayz Zombie RPG - DE Sacred Warriors [GMT -6 | 1.7.1.1 | CH:ON Regular] supported by www.dayzforum.net | Vilayer.com\gamever\1.60.93702\numplayers\7\maxplayers\24\mapname\Chernarus
+199.19.111.18:2352 \hostname\DayZ - NJ4 (1.7.1.1) Testing Server (resets often) | Vilayer.com\gamever\1.60.93702\numplayers\2\maxplayers\24\mapname\Chernarus
+83.223.83.106:2302 \hostname\DayZ - DE25 Berlin (v1.7.1.1/Beta 93825) [VETERAN|3DP:OFF|CH:OFF][UTC-10] dayzmod.com - hosted by spielviel.de\gamever\1.60.93825\numplayers\5\maxplayers\50\mapname\Chernarus
+199.116.113.81:2302 \hostname\DayZ Zombie RPG - Atlanta 6 (v1.7) Beta Required dayzmod.com - Hosted by Steven And Martin\gamever\1.60.93825\numplayers\3\maxplayers\25\mapname\Chernarus
+64.79.106.158:2342 \hostname\DayZ Zombie RPG - Chicago 56 (v1.7.1) dayzmod.com - Hosted by 4FK.clanservers.com\gamever\1.60.93825\numplayers\2\maxplayers\25\mapname\Chernarus
+188.40.94.131:2310 \hostname\DayZ RPG - DE61 (v1.7.1.1/Beta 93825) [VETERAN|GMT+4] dayzmod.com - hosted by ARMA-TIGER\gamever\1.60.93825\numplayers\28\maxplayers\30\mapname\Chernarus
+94.242.227.6:2312 \hostname\DayZ - UK 87 (v1.7.1.1/93701 beta) [3dp:on ch:off] [UTC+1] dayzmod.com - www.IanClan.Com | Vilayer.com\gamever\1.60.93702\numplayers\6\maxplayers\40\mapname\Chernarus
+46.253.205.106:2362 \hostname\DayZ - SE 6 (v1.7.1.1/Beta 93825) [VETERAN|3DP:ON|CH:ON][GMT+2] dayzmod.com - hosted by Pandemic-Legion.com\gamever\1.60.93825\numplayers\35\maxplayers\50\mapname\Chernarus
+94.23.59.167:2302 \hostname\DayZ - UK 20 (v1.7.1.1/Beta 93825) [VET 3DP:OFF DM:OFF CH:OFF] dayzmod.com - hosted by SWEBAT.nu\gamever\1.60.93825\numplayers\32\maxplayers\50\mapname\Chernarus
+85.236.105.38:2502 \hostname\DayZ DE #37 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+216.244.82.90:2312 \hostname\DayZ Zombie RPG - Seattle 44 (v1.7.1.1) dayzmod.com - Hosted by SBA Gaming - www.sobadass.com\gamever\1.60.93825\numplayers\4\maxplayers\35\mapname\Chernarus
+46.4.50.200:2402 \hostname\[FR] AIR COMMANDO - PUBLIC - NO ADDONS - COMBINED\gamever\1.60.87589\numplayers\0\maxplayers\100\mapname\chernarus
+216.231.138.234:2342 \hostname\DayZ Zombie RPG - Chicago 59 (v1.7) dayzmod.com - Hosted by MacaroniBeachBandits\gamever\1.60.93825\numplayers\2\maxplayers\35\mapname\Chernarus
+94.242.227.26:2312 \hostname\Dayz Zombie RPG - UK101 (v1.7.1) Arma 1.60.93825 [GMT+0|REGULAR] dayzmod.com - Hosted by =IMPI= | Vilayer.com\gamever\1.60.93702\numplayers\16\maxplayers\40\mapname\Chernarus
+37.191.132.102:2302 \hostname\Miri\gamever\1.60.87580\numplayers\1\maxplayers\8\mapname\Chernarus
+46.253.205.106:2338 \hostname\DayZ - SE 4 (v1.7.1.1/Beta 93825) [REGULAR][GMT+2] dayzmod.com - hosted by Pandemic-Legion.com\gamever\1.60.93825\numplayers\33\maxplayers\50\mapname\Chernarus
+23.29.115.233:2302 \hostname\DayZ Zombie RPG - TX7 (v1.7.1.1) (beta 93825 required)\gamever\1.60.93825\numplayers\13\maxplayers\50\mapname\Chernarus
+79.161.157.131:2314 \hostname\DayZ - Norway 2 (v1.7.1/Beta 93825) dayzmod.com - Hosted by Silentspy\gamever\1.60.93825\numplayers\29\maxplayers\50\mapname\Chernarus
+216.244.82.90:2322 \hostname\DayZ Zombie RPG - Seattle 45 (v1.7) dayzmod.com - Hosted by XTREMEGAMERS.CA \gamever\1.60.93702\numplayers\2\maxplayers\50\mapname\Chernarus
+46.253.205.106:2350 \hostname\DayZ - SE 5 (v1.7.1.1/Beta 93825) [VETERAN|3DP:ON|CH:ON][GMT+2] dayzmod.com - hosted by Pandemic-Legion.com\gamever\1.60.93825\numplayers\32\maxplayers\50\mapname\Chernarus
+94.242.227.26:2322 \hostname\Dayz Zombie RPG - UK11 (v1.7.1.1)(A2 93701) dayzmod.com - MaChOMaN UK SurViVaL Hosted by Vilayer.com \gamever\1.60.93702\numplayers\20\maxplayers\20\mapname\Chernarus
+216.244.82.90:2332 \hostname\DayZ Zombie RPG - Seattle 46 (v1.7.1.1) dayzmod.com - Hosted by The Begotten\gamever\1.60.93825\numplayers\13\maxplayers\50\mapname\Chernarus
+199.116.118.8:2302 \hostname\DayZ Zombie RPG - Atlanta 25 (v1.7) dayzmod.com - Hosted by [LZBZ] Thrazon!\gamever\1.60.93825\numplayers\2\maxplayers\25\mapname\Chernarus
+94.242.227.26:2332 \hostname\Dayz Zombie RPG - LU1 (v1.7.1.1) [3RD:ON|VETERAN] - Dan James | Vilayer.com\gamever\1.60.93702\numplayers\8\maxplayers\50\mapname\Chernarus
+85.236.105.35:2302 \hostname\DayZ DE #66 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\17\maxplayers\50\mapname\Chernarus
+85.236.105.41:2602 \hostname\DayZ DE #52 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\4\maxplayers\30\mapname\Chernarus
+23.29.118.204:2302 \hostname\DayZ - TX20 - (v-1.7.1) BETA 93701+ [Regular] [CST] 3RD PERSON AND X-HAIR DISABLED. -  Hosted by Sherdoggers\gamever\1.60.93702\numplayers\4\maxplayers\50\mapname\Chernarus
+46.253.205.106:2326 \hostname\DayZ - SE 3 (v1.7.1.1/Beta 93825) [REGULAR][GMT+2] dayzmod.com - hosted by Pandemic-Legion.com\gamever\1.60.93825\numplayers\34\maxplayers\50\mapname\Chernarus
+94.242.227.14:2302 \hostname\Dayz Zombie RPG - UK12 (v1.7.1.1)- Hosted by DubThug & CampDayZ.com\gamever\1.60.93702\numplayers\37\maxplayers\40\mapname\Chernarus
+5.9.6.41:2502 \hostname\DayZ - FI 3 (v1.7.1.1) [REGULAR 3DP:on|CH:on|UTC+1] - hosted by =Olut= SISU (olutta.org) - [FAG] Clan\gamever\1.60.93825\numplayers\38\maxplayers\40\mapname\Chernarus
+216.231.138.234:2322 \hostname\DayZ Zombie RPG - Chicago 46 - Last Resistance [EXPERT] (1.7.1.1/93825) dayzmod.com - Hosted by Grimner\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+216.244.82.90:2342 \hostname\DayZ Zombie RPG - Seattle 47 (v1.7) dayzmod.com - Hosted by hfbservers.com\gamever\1.60.93825\numplayers\1\maxplayers\25\mapname\Chernarus
+216.231.138.234:2332 \hostname\DayZ Zombie RPG - Chicago 47 (v1.7.1.1) dayzmod.com - Hosted by FMFclandivision.com\gamever\1.60.93825\numplayers\13\maxplayers\50\mapname\Chernarus
+23.29.118.206:2302 \hostname\Kick\gamever\1.60.93416\numplayers\1\maxplayers\10\mapname\Chernarus
+94.242.227.26:2342 \hostname\Dayz Zombie RPG - LU2 (v1.7.1.1/93701)[3DP:on CH:on][GMT-6]- BrBGamers | Vilayer.com\gamever\1.60.93702\numplayers\28\maxplayers\40\mapname\Chernarus
+216.231.139.6:2342 \hostname\DayZ Zombie RPG - Chicago 58 (v1.7.1.1/93825) dayzmod.com - Hosted by Bean Bandits\gamever\1.60.93825\numplayers\4\maxplayers\30\mapname\Chernarus
+209.239.124.0:2302 \hostname\DayZ - US 18 (v1.7.1.1/93825) [VETERAN 3DP:ON][GMT-5] dayzmod.com - hosted by BadassGamers.com\gamever\1.60.93825\numplayers\25\maxplayers\50\mapname\Chernarus
+93.77.34.216:2302 \hostname\Dayz - UA2 (1.7.1/beta 93701)[GMT+2]\gamever\1.60.93702\numplayers\0\maxplayers\25\mapname\Chernarus
+199.116.113.84:2314 \hostname\DayZ Zombie RPG - Atlanta 15 (v1.7) Beta Required dayzmod.com - Hosted by CorsivaDirect (CDC)\gamever\1.60.93825\numplayers\6\maxplayers\50\mapname\Chernarus
+203.167.236.183:2502 \hostname\DayZ - NZ7 (v1.7.1.1/Beta 93825) [VETERAN][UTC+8] dayzmod.com - Hosted by ON3 Network\gamever\1.60.93825\numplayers\50\maxplayers\50\mapname\Chernarus
+204.10.34.39:2302 \hostname\DayZ - US 6 Portland (1.7.0/Beta 93701) [REGULAR][PST] dayzmod.com - hosted by Ballistic\gamever\1.60.93702\numplayers\4\maxplayers\50\mapname\Chernarus
+87.237.32.72:2302 \hostname\DayZ - IS 1 (v1.7.0/Beta 93616) [Regular][GMT] dayzmod.com - hosted by CCP\gamever\1.60.93416\numplayers\5\maxplayers\24\mapname\Chernarus
+5.39.38.177:2302 \hostname\DayZ - FR11 RU EU(v1.7.1/93825) [3DP:on CH:off] dayzmod.com hosted by Asgard Team\gamever\1.60.93825\numplayers\0\maxplayers\45\mapname\Chernarus
+46.4.85.72:2300 \hostname\DayZ Zombie RPG - DE5 (v1.7.1) Powered by SPEAR-APB.DE (3DP:on|CH:off)\gamever\1.60.93825\numplayers\32\maxplayers\40\mapname\Chernarus
+66.90.74.203:2314 \hostname\DayZ - US 11 (1.7.0/93415)[EXPERT CH/TAGS/3DP:OFF][GMT-6] dayzmod.com - Sykotix.Com\gamever\1.60.93416\numplayers\4\maxplayers\64\mapname\Chernarus
+199.116.118.10:2322 \hostname\DayZ Zombie RPG - Atlanta 32 (v1.7.1) dayzmod.com - Hosted by Snail\gamever\1.60.93825\numplayers\6\maxplayers\25\mapname\Chernarus
+199.116.118.10:2332 \hostname\DayZ Zombie RPG - Atlanta 33 (v1.7) dayzmod.com - Hosted by Hosted by hfbservers.com\gamever\1.60.93825\numplayers\4\maxplayers\25\mapname\Chernarus
+85.236.105.37:2402 \hostname\DayZ DE #32 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\7\maxplayers\50\mapname\Chernarus
+75.131.177.43:2302 \hostname\DayZ - US 47 (v1.7.0/Beta 93702) [VETERAN|3DP:ON|CH:ON][GMT-4] dayzmod.com - hosted by mpcloudservers.com\gamever\1.60.93702\numplayers\3\maxplayers\50\mapname\Chernarus
+78.46.112.103:2302 \hostname\Dayz Zombie RPG - EU1 (v1.7.0) dayzmod.com\gamever\1.60.93123\numplayers\3\maxplayers\40\mapname\Chernarus
+94.242.227.26:2352 \hostname\Dayz Zombie RPG - LU3 (v1.7.1.1)- Mancos a CASCOPORRO | Vilayer.com\gamever\1.60.93702\numplayers\9\maxplayers\40\mapname\Chernarus
+216.231.138.234:2312 \hostname\DayZ Zombie RPG - Zanaris (v1.6.1) dayzmod.com\gamever\1.60.93825\numplayers\2\maxplayers\5\mapname\Chernarus
+94.242.227.6:2342 \hostname\DayZ Zombie RPG - Germany / Frankfurt (v1.7.1.1) dayzmod.com {by Anal Berserker}  | Vilayer.com\gamever\1.60.93702\numplayers\12\maxplayers\24\mapname\Chernarus
+95.211.151.36:4000 \hostname\DayZ - EU 40 (v1.7.1.1/93825) [VET,3DP:1,CH:1, LIGHTING: FILMIC] [GMT+1] dayzmod.com - hosted by Rajko\gamever\1.60.93825\numplayers\35\maxplayers\40\mapname\Chernarus
+216.244.73.234:2302 \hostname\DayZ Zombie RPG - Seattle 26 (v1.7.1) dayzmod.com - Hosted by Webb\gamever\1.60.93825\numplayers\4\maxplayers\25\mapname\Chernarus
+199.116.113.82:2302 \hostname\DayZ Zombie RPG - Atlanta 19 (v1.7.1.1) dayzmod.com - Hosted by Kilo\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+94.242.227.30:2322 \hostname\Dayz German - LU8 (v1.7.1.1) - PietSmiet by MrLiNk | Vilayer.com\gamever\1.60.93702\numplayers\8\maxplayers\40\mapname\Chernarus
+94.23.25.224:2302 \hostname\Dayz Zombie RPG - EU28 Dogznutz (v1.7.1)- Vilayer.com\gamever\1.60.93702\numplayers\9\maxplayers\40\mapname\Chernarus
+85.236.105.41:2302 \hostname\DayZ DE #49 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\9\maxplayers\30\mapname\Chernarus
+94.23.30.107:2302 \hostname\DayZ - FR 17 (1.7.0) [GMT+2] dayzmod.com - Justateam.ru [Beta 93825]\gamever\1.60.93825\numplayers\20\maxplayers\20\mapname\Chernarus
+89.104.194.154:2302 \hostname\DayZ - DK1 SOEBORG (v1.7.1.1/B93825) [VETERAN 3DP:OFF CH:OFF][GMT+2] dayzmod.com - Hosted by GB.Gladblad\gamever\1.60.93825\numplayers\29\maxplayers\50\mapname\Chernarus
+94.242.227.30:2332 \hostname\DayZ LU12 (v1.7.1.1/93398) [3DP:ON|CH:OFF] [UTC+1] teamreapers.org\gamever\1.60.93702\numplayers\3\maxplayers\50\mapname\Chernarus
+199.19.109.2:2302 \hostname\DayZ - NY47 1.7.1.1 (93825) [Veteran + 3DP][UTC+8] dayzmod.com - SiN Clan Server\gamever\1.60.93825\numplayers\46\maxplayers\55\mapname\Chernarus
+108.60.155.218:2302 \hostname\DayZ - US61 (NY2) (v1.7.0/Beta 93616) [REGULAR] dayzmod.com - hosted by Host Altitude\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+85.159.42.196:2302 \hostname\DayZ - RU 9 (v1.7.1.1) [VETERAN] dayzmod.com - DAYZ.SU -\gamever\1.60.93825\numplayers\49\maxplayers\50\mapname\Chernarus
+199.116.118.10:2312 \hostname\DayZ Zombie RPG - Atlanta 31 (v1.7.1) dayzmod.com - Hosted by The Cohort www.thecohortgaming.com\gamever\1.60.93825\numplayers\2\maxplayers\50\mapname\Chernarus
+91.233.105.52:2302 \hostname\DayZ Zombie RPG - NL11 (v1.7.1.1/93825) [Friendly] Hosted by: vpshosting.nl iXec & AciDCooL\gamever\1.60.93825\numplayers\7\maxplayers\30\mapname\Chernarus
+119.252.190.33:2402 \hostname\DayZ - ANZ 2 (v1.7.1.1) [VET][GMT +10] dayzmod.com - Hosted by AUSARMA.org\gamever\1.60.93825\numplayers\50\maxplayers\50\mapname\Chernarus
+184.170.244.10:2302 \hostname\DayZ Zombie RPG - LA 1 (v1.7) Beta Required dayzmod.com - Hosted by www.valhallaclan.com\gamever\1.60.93825\numplayers\7\maxplayers\25\mapname\Chernarus
+108.60.143.125:2302 \hostname\DayZ Zombie RPG - NY21 (v1.7.0) Provided by: gta-sarp.com ([3RDP,REG,CH]=1)\gamever\1.60.93349\numplayers\20\maxplayers\20\mapname\Chernarus
+188.165.207.33:2333 \hostname\DayZ - FR1 (v1.7.1.1/beta 93825) [3dp:on ch:on] [UTC-2] dayzmod.com - Hosted by [MAD SiN]\gamever\1.60.93825\numplayers\30\maxplayers\30\mapname\Chernarus
+176.9.80.14:2302 \hostname\DayZ - DE 27 (v1.7.1.1)[3DP:ON][GMT+2] dayzmod.com - RU DAYZ.SU (Beta 93825)\gamever\1.60.93825\numplayers\13\maxplayers\50\mapname\Chernarus
+66.212.17.219:2302 \hostname\DayZ Zombie RPG - LA 5 (v1.7.1.1) (BETA 93825 REQUIRED) (CH, 3DP, TAGS = OFF) (GMT-7)\gamever\1.60.93825\numplayers\12\maxplayers\50\mapname\Chernarus
+199.116.118.10:2342 \hostname\DayZ Zombie RPG - Atlanta 34 (v1.7) dayzmod.com - Hosted by Sehksnukle\gamever\1.60.93825\numplayers\1\maxplayers\25\mapname\Chernarus
+5.9.5.171:2402 \hostname\DayZ - EU12 (v1.7.1.1) [REGULAR 3DP:off|CH:off|UTC+1] - hosted by =Olut= SISU (olutta.org) - PrimeGaming/Freelance\gamever\1.60.93825\numplayers\27\maxplayers\40\mapname\Chernarus
+108.60.128.221:2302 \hostname\DayZ - US68 - NY17 (1.7.1.1/Beta 93825) [Regular][-5 GMT] dayzmod.com - hosted by brennmc.com\gamever\1.60.93825\numplayers\11\maxplayers\50\mapname\Chernarus
+24.255.194.38:2314 \hostname\DayZ 1.6.0.1 Server (NO-CDKey) [1.60 + Beta]\gamever\1.60.87548\numplayers\5\maxplayers\50\mapname\Chernarus
+23.29.116.244:2302 \hostname\DayZ - US85 (v1.7.1.1/93825) [REGULAR] [3DP:ON/CH:ON] [CST] dayzmod.com - Wardrivers.net - Hosted By Altitude\gamever\1.60.93825\numplayers\20\maxplayers\50\mapname\Chernarus
+31.46.192.238:61907 \hostname\a bartosista szerver\gamever\1.60.87548\numplayers\1\maxplayers\2\mapname\Chernarus
+88.198.106.58:2402 \hostname\DayZ - EU11 (v1.7.1.1) [REGULAR 3DP:off|CH:on|UTC-4] - hosted by =Olut= SISU (olutta.org) - ManxRats\gamever\1.60.93825\numplayers\30\maxplayers\40\mapname\Chernarus
+41.86.108.56:2302 \hostname\DayZ Zombie RPG - ZA1 (v1.7.1) dayzmod.com - South African DayZ server hosted by NAG.co.za - 220 ping limit\gamever\1.60.93825\numplayers\9\maxplayers\50\mapname\Chernarus
+88.204.115.17:2302 \hostname\DayZ - 70RUS Tomsk SibGame.Net (v1.7.1/Beta 93825) [VETERAN|3DP:ON|CH:ON][GMT+6] dayzmod.com - hosted by sibgame.net\gamever\1.60.93825\numplayers\23\maxplayers\30\mapname\Chernarus
+216.231.139.117:2332 \hostname\DayZ Zombie RPG - Chicago 51 (v1.7.1.1 Beta 93825)- Hosted by Addictguild.com\gamever\1.60.93825\numplayers\6\maxplayers\50\mapname\Chernarus
+85.236.105.38:2402 \hostname\DayZ DE #33 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\24\maxplayers\50\mapname\Chernarus
+94.23.25.224:2322 \hostname\DayZ Zombie RPG - RU77 (v 1.7.1) dayzmod.com - Meat\gamever\1.60.93702\numplayers\2\maxplayers\2\mapname\Chernarus
+216.231.139.117:2322 \hostname\DayZ Zombie RPG - Chicago 50 (v1.7.1.1) dayzmod.com - Hosted by NR^\gamever\1.60.93825\numplayers\26\maxplayers\50\mapname\Chernarus
+216.244.87.162:2414 \hostname\DayZ Zombie RPG - Seattle 10 (v1.7) dayzmod.com - Hosted by Red-squadron.ru\gamever\1.60.93825\numplayers\2\maxplayers\25\mapname\Chernarus
+91.230.210.231:2401 \hostname\DayZ - RU 4 (v1.7.1/Beta 93825) [VETERAN 3DP:ON,FILMIC][GMT+4] dayzmod.com - hosted by OptiZone.ru\gamever\1.60.93825\numplayers\37\maxplayers\40\mapname\Chernarus
+203.33.121.206:2302 \hostname\DayZ - ANZ 10 - (v1.7.1.1 Beta)[VET][GMT+10] - Hosted by armaderp.com\gamever\1.60.93825\numplayers\30\maxplayers\30\mapname\Chernarus
+91.230.210.231:2402 \hostname\DayZ - RU 5 (v1.7.1/Beta 93825) [VETERAN 3DP:ON,FILMIC][GMT+4] dayzmod.com - hosted by OptiZone.ru\gamever\1.60.93825\numplayers\39\maxplayers\40\mapname\Chernarus
+109.236.85.132:2402 \hostname\DayZ - NL 4 (v1.7.1.1/BETA 93825) [VETERAN 3DP:ON CH:OFF LIGHTING:FILMIC][UTC-2] dayzmod.com - hosted by [SoH]\gamever\1.60.93825\numplayers\39\maxplayers\40\mapname\Chernarus
+94.23.25.224:2312 \hostname\DayZ - EU42 (v1.7.0)dayzmod.com - hosted by \gamever\1.60.93702\numplayers\12\maxplayers\50\mapname\Chernarus
+216.231.139.117:2312 \hostname\DayZ Zombie RPG - Black Guard (v1.7.1.1) dayzmod.com - Hosted by Black Guard\gamever\1.60.93825\numplayers\13\maxplayers\30\mapname\Chernarus
+79.174.32.203:2302 \hostname\DayZ Zombie RPG - MINI RU7 [HARDCORE] (v1.7.0) dayzmod.com - Hosted by mc.undvoice.com (SnaKe)\gamever\1.60.93825\numplayers\2\maxplayers\30\mapname\Chernarus
+5.9.7.99:2302 \hostname\DayZ - EU15 (v1.7.1.1) [REGULAR 3DP:off|CH:on|UTC+1] - hosted by =Olut= SISU (olutta.org) - [LoC]\gamever\1.60.93825\numplayers\28\maxplayers\40\mapname\Chernarus
+5.9.14.183:2319 \hostname\DayZ Zombie RPG - DE13 (v1.7.1.1) dayzmod.com - by [SKS]Sonder-Kommando-Sturm #2\gamever\1.60.93825\numplayers\31\maxplayers\40\mapname\Chernarus
+5.9.14.183:2305 \hostname\DayZ Zombie RPG - DE12 (v1.7.1.1) dayzmod.com - by [SKS]Sonder-Kommando-Sturm #1\gamever\1.60.93825\numplayers\30\maxplayers\45\mapname\Chernarus
+216.244.87.162:2402 \hostname\DayZ Zombie RPG - Seattle 9 (v1.7) dayzmod.com - Hosted by Dayzserverhosting.com\gamever\1.60.93825\numplayers\9\maxplayers\25\mapname\Chernarus
+199.19.108.137:2302 \hostname\DayZ - US 7 (v1.7.1.1/Beta 93825) [VETERAN 3DP:ON][UTC+4] dayzmod.com - hosted by AAF\gamever\1.60.93825\numplayers\25\maxplayers\32\mapname\Chernarus
+216.244.82.90:2302 \hostname\DayZ Zombie RPG - Seattle 43 (v1.7.1.1) dayzmod.com - Hosted by Renegades\gamever\1.60.93825\numplayers\37\maxplayers\50\mapname\Chernarus
+66.150.164.103:2302 \hostname\DayZ - US 50 Seattle 14 (v1.7.1.1/Beta 93825) dayzmod.com - TEST Alliance Please Ignore\gamever\1.60.93825\numplayers\37\maxplayers\50\mapname\Chernarus
+94.23.230.225:2332 \hostname\DayZ - EU 44 (v1.7.1.1) [3dp:ON ch:ON] [GMT+1] dayzmod.com | Vilayer.com\gamever\1.60.93702\numplayers\13\maxplayers\24\mapname\Chernarus
+65.103.116.51:2302 \hostname\DayZ - US 31 Colorado 2  (v1.7.1/Beta 93825) [REGULAR][GMT-7] dayzmod.com - hosted by www.projectdizzy.com \gamever\1.60.93825\numplayers\4\maxplayers\30\mapname\Chernarus
+141.0.136.22:2302 \hostname\DayZ 1.7.1.1 - NO 04 b93701 [REGULAR][GMT+1] dayzmod.com - hosted by wk\gamever\1.60.93825\numplayers\0\maxplayers\8\mapname\Chernarus
+5.9.6.41:2402 \hostname\DayZ - EU14 (v1.7.1.1) [REGULAR 3DP:on|CH:off|UTC+1] - hosted by =Olut= SISU (olutta.org) - BloodFace\gamever\1.60.93825\numplayers\37\maxplayers\40\mapname\Chernarus
+94.242.227.34:2352 \hostname\DayZ Zombie RPG - EU64 (v1.7.0)\gamever\1.60.93702\numplayers\5\maxplayers\50\mapname\Chernarus
+94.23.236.229:2362 \hostname\DayZ Zombie RPG - ES1 (v1.7.1 Beta93701) [3DP=1,CH=1] | Vilayer.com\gamever\1.60.93702\numplayers\7\maxplayers\24\mapname\Chernarus
+94.23.230.225:2322 \hostname\DayZ Zombie RPG - FR10 (v1.7.1.1;93701)|[VETERAN 3DP:1 CH:0]\gamever\1.60.93702\numplayers\8\maxplayers\50\mapname\Chernarus
+188.138.115.145:2302 \hostname\DayZ - DE 54 (v1.7.1.1/Beta 93825) [Veteran|3DP:ON|CH:ON][GMT+3] dayzmod.com - hosted by Gunnar/Peggy\gamever\1.60.93825\numplayers\32\maxplayers\40\mapname\Chernarus
+216.244.73.90:2312 \hostname\DayZ Zombie RPG - Seattle 19 (v1.7.0) dayzmod.com [Regular][3DP:on][Xhair:on] - Hosted by PLF\gamever\1.60.93825\numplayers\14\maxplayers\25\mapname\Chernarus
+176.9.92.143:2602 \hostname\DayZ - DE 48 - EU33 (v1.7.1.1/93825) [EXPERT][GMT+2] dayzmod.com - Hosted by Sekra\gamever\1.60.93825\numplayers\20\maxplayers\50\mapname\Chernarus
+178.63.78.76:2303 \hostname\DayZ D-D%D%D+D, RPG - RU51 (v1.6.0.1) dayzmod.com - Hosted by RussianRP.ru\gamever\1.60.87548\numplayers\0\maxplayers\50\mapname\Chernarus
+178.63.78.76:2302 \hostname\DayZ D-D%D%D+D, RPG - Ru50 (v1.6.0.1) dayzmod.com - Hosted by RussianRP.ru\gamever\1.60.87548\numplayers\1\maxplayers\50\mapname\Chernarus
+94.23.236.229:2352 \hostname\DayZ - UK69 SCO VETERAN+3RD|NO XH [GMT+0](v1.7.0|Beta 93398)\gamever\1.60.93702\numplayers\1\maxplayers\40\mapname\Chernarus
+85.236.105.39:2402 \hostname\DayZ DE #34 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\12\maxplayers\50\mapname\Chernarus
+74.63.232.178:2414 \hostname\DayZ Zombie RPG - Dallas 43 (v1.7) dayzmod.com - Hosted by Grizzlymann\gamever\1.60.93825\numplayers\8\maxplayers\25\mapname\Chernarus
+94.242.227.34:2342 \hostname\DayZ - UK15 (v1.7.1.1/Beta 93825 only) [REGULAR] [GMT-0] dayzmod.com - hosted by Unreal\gamever\1.60.93702\numplayers\28\maxplayers\30\mapname\Chernarus
+94.242.227.2:2332 \hostname\DayZ Zombie RPG - EU63 (1.7.1.1) dayzmod.com -Rasfare | Vilayer.com\gamever\1.60.93702\numplayers\6\maxplayers\30\mapname\Chernarus
+94.23.231.136:2352 \hostname\DayZ Zombie RPG - Germany / Cologne (v1.7.1.1) dayzmod.com - Ev!L - Esports GM | Vilayer.com\gamever\1.60.93702\numplayers\30\maxplayers\30\mapname\Chernarus
+188.165.207.33:2399 \hostname\DayZ - FR2 (v1.7.1.1/beta 93825) [3dp:on ch:on] [UTC-2] dayzmod.com - Hosted by [MAD SiN]\gamever\1.60.93825\numplayers\30\maxplayers\30\mapname\Chernarus
+216.244.73.90:2322 \hostname\DayZ Zombie RPG - Seattle 20 (v1.7.1.1) dayzmod.com - Hosted by pixelkillers\gamever\1.60.93825\numplayers\5\maxplayers\25\mapname\Chernarus
+94.23.236.229:2312 \hostname\DayZ sGs&OCB NL 1.7 beta.\gamever\1.60.93702\numplayers\6\maxplayers\35\mapname\Chernarus
+94.242.227.34:2332 \hostname\DayZ - LU 13 (1.7.1.1/93701) [3dp:on ch:off] [UTC-5] dayzmod.com | Vilayer.com\gamever\1.60.93702\numplayers\1\maxplayers\30\mapname\Chernarus
+216.244.73.90:2332 \hostname\DayZ Zombie RPG - Seattle 34 (v1.7) dayzmod.com - Hosted by -7Ban- and hfbservers.com\gamever\1.60.93616\numplayers\6\maxplayers\25\mapname\Chernarus
+85.25.119.207:2302 \hostname\DayZ - DE 62 (v1.7.0/Beta) [Veteran] - Dayzmod.com - hostet by Are those Subtitles\gamever\1.60.93616\numplayers\2\maxplayers\50\mapname\Chernarus
+216.244.71.18:2302 \hostname\DayZ Zombie RPG - Seattle 15 (v1.7) dayzmod.com - Hosted by FlamingXStudios\gamever\1.60.93416\numplayers\11\maxplayers\25\mapname\Chernarus
+119.252.190.44:2302 \hostname\DayZ Zombie RPG - ANZ5 (v1.6.0.1) dayzmod.com - Hosted by Moochie  Legend-Clan.Net\gamever\1.60.87548\numplayers\2\maxplayers\50\mapname\Chernarus
+216.231.139.117:2342 \hostname\DayZ Zombie RPG - Chicago 60 (v1.7) dayzmod.com - Hosted by Greedo187\gamever\1.60.93825\numplayers\19\maxplayers\35\mapname\Chernarus
+46.4.89.98:2800 \hostname\DayZ Zombie RPG - DE1 (v1.7.1/beta93825) EUROPEAN (UTC-8) (Powered by DAO.nu)\gamever\1.60.93825\numplayers\10\maxplayers\35\mapname\Chernarus
+74.63.232.178:2402 \hostname\DayZ Zombie RPG - Dallas 42 (v1.7) dayzmod.com - Hosted by 9kdps\gamever\1.60.93825\numplayers\7\maxplayers\50\mapname\Chernarus
+217.146.84.3:2314 \hostname\DayZ Zombie RPG - SESUK1 (v1.7.1.1) dayzmod.com - Hosted by SuicidESquad\gamever\1.60.93825\numplayers\14\maxplayers\40\mapname\Chernarus
+94.23.231.136:2342 \hostname\DayZ Zombie RPG - EU38 (v1.7.0) Dedalus Server | Vilayer.com\gamever\1.60.93702\numplayers\5\maxplayers\24\mapname\Chernarus
+23.29.115.232:2302 \hostname\DayZ - TX6 (v1.7.1.1/Beta 93825) [Veteran][PST] dayzmod.com - Hosted by Str8Dumpn\gamever\1.60.93825\numplayers\8\maxplayers\50\mapname\Chernarus
+216.231.139.6:2302 \hostname\DayZ Zombie RPG - Chicago 40 (v1.7.1.1) dayzmod.com - Hosted by STABCLAN\gamever\1.60.93825\numplayers\2\maxplayers\25\mapname\Chernarus
+69.162.79.242:2314 \hostname\DayZ Zombie RPG - Dallas 25 (v1.7) dayzmod.com - Hosted by Arcscraft.com\gamever\1.60.93825\numplayers\6\maxplayers\50\mapname\Chernarus
+94.242.227.2:2322 \hostname\DayZ Zombie RPG - EU62 (1.7.1.1) dayzmod.com -[22ndSAS] T-baggers\gamever\1.60.93702\numplayers\8\maxplayers\24\mapname\Chernarus
+216.244.73.90:2342 \hostname\DayZ Zombie RPG - Seattle 21 (v1.7.1.1) dayzmod.com - Hosted by SadPandas\gamever\1.60.93825\numplayers\5\maxplayers\25\mapname\Chernarus
+66.150.121.105:2302 \hostname\DayZ Zombie RPG - NYC 8 (v1.7.1.1) dayzmod.com - provided by [MISC]\gamever\1.60.93825\numplayers\13\maxplayers\35\mapname\Chernarus
+189.47.231.168:2302 \hostname\Servidor Br - DEDICADO\gamever\1.60.87580\numplayers\1\maxplayers\25\mapname\Chernarus
+94.242.227.2:2312 \hostname\DayZ Zombie RPG - NL9 (v1.7.1.1/93701) [VETERAN 3DP:ON CH:OFF][GMT+2] dayzmod.com - Hosted by eGF\gamever\1.60.93702\numplayers\5\maxplayers\25\mapname\Chernarus
+82.131.203.253:2302 \hostname\Sindorein's Dayz\gamever\1.60.87548\numplayers\3\maxplayers\10\mapname\Chernarus
+23.29.116.86:2314 \hostname\DayZ - US90 TX(v1.7.1/b93825) [SG-REG2] | STEAMGAMERS.COM\gamever\1.60.93825\numplayers\0\maxplayers\50\mapname\Chernarus
+94.23.236.229:2332 \hostname\DayZ Zombie RPG - EU27 BETA 93701 | [MiC] | Vilayer.com\gamever\1.60.93702\numplayers\3\maxplayers\30\mapname\Chernarus
+94.23.236.229:2322 \hostname\DayZ - EU 40 (v1.7.1) [3dp:on ch:off] [UTC-5] dayzmod.com - hosted by Dregek | Vilayer.com \gamever\1.60.93702\numplayers\30\maxplayers\30\mapname\Chernarus
+23.29.118.205:2302 \hostname\DayZ - US95 TX21(1.7.1.1+Beta) [Vet+3rd] Shots Bean Palace\gamever\1.60.93825\numplayers\6\maxplayers\50\mapname\Chernarus
+74.91.122.215:2314 \hostname\DayZ - US 28 Chicago 22 (v1.7.1.1/Beta 93825)[VETERAN] (UTC+10) dayzmod.com - hosted by The Fraternity of Gamers\gamever\1.60.93702\numplayers\46\maxplayers\60\mapname\Chernarus
+199.116.113.84:2302 \hostname\DayZ Zombie RPG - Atlanta 14 (v1.7) dayzmod.com - Hosted by Dayzserverhosting.com\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+94.23.231.136:2322 \hostname\Dayz Zombie RPG - UK13 (v1.7.0/Beta 93415)dayzmod.com - The 51st Regiment\gamever\1.60.93702\numplayers\6\maxplayers\42\mapname\Chernarus
+176.9.39.181:2502 \hostname\DayZ - EU32 (v1.7.1.1) [REGULAR 3DP:on|CH:off|UTC-3] - =Olut= SISU (olutta.org) - Umbrella Corp Server\gamever\1.60.93825\numplayers\39\maxplayers\40\mapname\Chernarus
+108.175.9.206:2302 \hostname\DayZ Zombie RPG - US11 [Roleplaying] No Crosshair (v1.6.0.1) dayzmod.com - hosted by H\gamever\1.60.87548\numplayers\4\maxplayers\50\mapname\Chernarus
+74.91.122.167:2302 \hostname\DayZ - US 104 Chicago (v1.7.1/93825) [VETERAN|3DP:ON|CH:OFF][GMT+10] [WolvesofWar.org] [DayzMod.com]\gamever\1.60.93825\numplayers\6\maxplayers\50\mapname\Chernarus
+94.242.227.6:2302 \hostname\DayZ Zombie RPG - DE30 (v1.7.0) dayzmod.com [beta 93701] [3RDPV:OFF,CURSOR:OFF] [hosted by darkarchon] - Vilayer.com\gamever\1.60.93702\numplayers\4\maxplayers\24\mapname\Chernarus
+64.79.106.158:2302 \hostname\DayZ Zombie RPG - Chicago 61 (v1.7) dayzmod.com - Hosted by clan.nocturnal.org\gamever\1.60.93825\numplayers\5\maxplayers\25\mapname\Chernarus
+81.0.236.125:2314 \hostname\DayZ - CZ02 (Prague,EU)(1.7.1.1/beta 93825) [Veteran 3DP:ON CH:ON LIGHTING:FILMIC] [CET-5] dayzmod.com\gamever\1.60.93825\numplayers\21\maxplayers\34\mapname\Chernarus
+94.23.231.136:2332 \hostname\DayZ Zombie RPG - UK1234 (V1.7.1)[CH-1][3D-1][TAGS-0] Hosted by FragIT - OPEN FOR BUSINESS!\gamever\1.60.93702\numplayers\4\maxplayers\24\mapname\Chernarus
+188.40.106.81:2352 \hostname\DayZ Zombie RPG - Germany 16 (v1.7.1) dayzmod.com - Hosted by teamafx.net\gamever\1.60.93616\numplayers\2\maxplayers\40\mapname\Chernarus
+108.60.128.219:2302 \hostname\DayZ - NY15 (v1.7.1/Beta 93825) dayzmod.com | Hosted by PsiSyndicate\gamever\1.60.87548\numplayers\1\maxplayers\50\mapname\Chernarus
+216.244.82.82:2302 \hostname\DayZ Zombie RPG - Seattle 48 (v1.7.1.1) dayzmod.com - Hosted by {3DP:ON CH:OFF}\gamever\1.60.93825\numplayers\15\maxplayers\35\mapname\Chernarus
+91.121.80.44:2312 \hostname\DayZ - FR 15 (v1.7.1.1/Beta 93825) [3DP:ON|CH:OFF][UTC-4] dayzmod.com - hosted by EK\gamever\1.60.93825\numplayers\22\maxplayers\25\mapname\Chernarus
+64.31.27.194:2414 \hostname\DayZ US90 (1.7.0) UTC-9 dayzmod.com - hosted by www.metaredux.com (Dallas 20)\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+69.162.79.242:2414 \hostname\DayZ Zombie RPG - Dallas 26 (v1.7) dayzmod.com - Hosted by Tony Montana\gamever\1.60.93825\numplayers\3\maxplayers\50\mapname\Chernarus
+94.242.227.2:2352 \hostname\DayZ - EU64 [MallRats] (v.1.7.1.1) |dayzmod.com| Vilayer.com\gamever\1.60.93702\numplayers\13\maxplayers\24\mapname\Chernarus
+81.88.208.155:2302 \hostname\DayZ - RU 2 (v1.7.1.1) [VETERAN] dayzmod.com - N DuNED2DuNE arma2.ru\gamever\1.60.93825\numplayers\49\maxplayers\50\mapname\Chernarus
+188.40.106.81:2342 \hostname\DayZ Zombie RPG - Germany 15 (v1.7) dayzmod.com - Hosted by Kjeer\gamever\1.60.93616\numplayers\22\maxplayers\25\mapname\Chernarus
+23.29.115.234:2302 \hostname\DayZ - US 38 Texas (v1.7.1.1/Beta 93825) [VETERAN 3DP:ON][GMT -10] dayzmod.com - Hosted by NeoGAF.com\gamever\1.60.93825\numplayers\10\maxplayers\50\mapname\Chernarus
+173.66.79.15:2302 \hostname\DayZ - US 8 Virginia 13 ( 1.7.1 | 93825 ) [3DP:1|CH:1] Midnight-Oil\gamever\1.60.93825\numplayers\5\maxplayers\50\mapname\Chernarus
+216.172.106.5:2302 \hostname\DayZ Zombie RPG - Dallas 48 (v1.7.1) dayzmod.com - Hosted by TOP - BR\gamever\1.60.93825\numplayers\8\maxplayers\25\mapname\Chernarus
+69.162.85.130:2326 \hostname\DayZ Zombie RPG - US2 (v1.7.1) dayzmod.com - hosted by TAW_Tonic\gamever\1.60.93825\numplayers\0\maxplayers\50\mapname\Chernarus
+23.29.116.86:2326 \hostname\DayZ - US91 TX(v1.7.1/b93825) [SG-VET+3RD] | STEAMGAMERS.COM\gamever\1.60.93825\numplayers\2\maxplayers\40\mapname\Chernarus
+64.31.27.194:2402 \hostname\DayZ Zombie RPG - Dallas 19 (v1.7) dayzmod.com - Donated by NeoGAF.com\gamever\1.60.93825\numplayers\11\maxplayers\50\mapname\Chernarus
+216.244.73.234:2352 \hostname\DayZ Zombie RPG - DayZ Server (v1.7) dayzmod.com - Hosted by Huginn.co\gamever\1.60.93616\numplayers\1\maxplayers\50\mapname\Chernarus
+216.231.140.78:2302 \hostname\DayZ Zombie RPG - Chicago 28 (v1.7) Beta Required dayzmod.com - Hosted by Sherdoggers\gamever\1.60.93825\numplayers\7\maxplayers\50\mapname\Chernarus
+69.162.79.242:2402 \hostname\DayZ Zombie RPG - Dallas 24 (v1.7) dayzmod.com - Hosted by Clanpmc.com\gamever\1.60.93825\numplayers\0\maxplayers\50\mapname\Chernarus
+94.23.231.136:2312 \hostname\DayZ - UK14 (1.7.1 / 93701) [3dp:off ch:off] [UTC+1] dayzmod.com - M8D International\gamever\1.60.93702\numplayers\3\maxplayers\50\mapname\Chernarus
+188.40.106.81:2332 \hostname\DayZ Zombie RPG - Germany 14 (DayZ 1.7.1.1 + 1.60.93825 Beta)\gamever\1.60.93825\numplayers\13\maxplayers\50\mapname\Chernarus
+84.235.58.54:2302 \hostname\SaudiNET [DayZ Zombie RPG]\gamever\1.60.93702\numplayers\0\maxplayers\30\mapname\Chernarus
+199.116.113.82:2314 \hostname\DayZ Zombie RPG - Atlanta 18 (v1.7.1.1) dayzmod.com - Hosted by Kilo\gamever\1.60.93825\numplayers\28\maxplayers\50\mapname\Chernarus
+94.242.227.2:2342 \hostname\DayZ - UK24 (1.7.1.1/beta 93701) [3dp:1 ch:1] [UTC+1]dayzmod.com - Hosted by {TST} HamFoe\gamever\1.60.93702\numplayers\9\maxplayers\30\mapname\Chernarus
+216.244.87.162:2314 \hostname\DayZ Zombie RPG - Seattle 8 (v1.7) dayzmod.com - Hosted By: The Reichswehr\gamever\1.60.93825\numplayers\3\maxplayers\50\mapname\Chernarus
+216.244.73.226:2302 \hostname\DayZ Zombie RPG - Seattle 30 (v1.7.1.1) - Who's Shoooting in Cherno?!\gamever\1.60.93825\numplayers\16\maxplayers\50\mapname\Chernarus
+69.162.85.130:2314 \hostname\DayZ Zombie RPG - US1 (v1.7.1) dayzmod.com - hosted by TAW_Tonic\gamever\1.60.93825\numplayers\8\maxplayers\50\mapname\Chernarus
+83.5.65.218:14274 \hostname\DayZ 1.6.0.1 Server (NO-CDKey) [1.60 + Beta]\gamever\1.60.87548\numplayers\4\maxplayers\50\mapname\Chernarus
+108.60.128.234:2302 \hostname\DayZ - US 64(NY6) (v1.7.1.1/93825) [VETERAN|3DP:ON][GMT+5] dayzmod.com - WORROM.COM\gamever\1.60.93825\numplayers\8\maxplayers\50\mapname\Chernarus
+23.29.116.86:2338 \hostname\DayZ - US92 TX(v1.7.1/b93825) [SG-VET] | STEAMGAMERS.COM\gamever\1.60.93825\numplayers\1\maxplayers\40\mapname\Chernarus
+188.40.106.81:2322 \hostname\DayZ Zombie RPG - Germany 13 (v1.7) dayzmod.com - Hosted by Swisscraft / forum.swisscraft.eu\gamever\1.60.93616\numplayers\25\maxplayers\25\mapname\Chernarus
+216.244.73.234:2342 \hostname\DayZ Zombie RPG - Seattle 35 (v1.7) dayzmod.com - Hosted by Toxic Gaming\gamever\1.60.93616\numplayers\11\maxplayers\25\mapname\Chernarus
+85.236.105.37:2502 \hostname\DayZ DE #36 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+23.29.115.253:2302 \hostname\DayZ - US77 [v1.7.1.1/93825] [Regular] [UTC-11] dayzmod.com - aka TX1 with [Nametags:Off]\gamever\1.60.93825\numplayers\5\maxplayers\50\mapname\Chernarus
+23.29.119.228:2302 \hostname\DaYZ - US121 (v1.7.1.1/93825 Beta) dayzmod.com -Hosted by BwickFS39\gamever\1.60.93825\numplayers\5\maxplayers\50\mapname\Chernarus
+108.60.155.218:2314 \hostname\DayZ - US63 (NY4) (v1.7.0/Beta 93616) [REGULAR] dayzmod.com - hosted by Host Altitude\gamever\1.60.93825\numplayers\0\maxplayers\50\mapname\Chernarus
+199.116.113.83:2314 \hostname\DayZ Zombie RPG - Atlanta 11 (v1.7) dayzmod.com - Hosted by Adotta\gamever\1.60.93825\numplayers\1\maxplayers\25\mapname\Chernarus
+94.242.227.10:2302 \hostname\DayZ - EU73 (1.7.1.1/93398) [3dp:on ch:on] [UTC+0] dayzmod.com - hosted by PeaC & Vilayer.com\gamever\1.60.93702\numplayers\18\maxplayers\30\mapname\Chernarus
+108.60.155.218:2326 \hostname\DayZ - US62 (NY3) (v1.7.0/Beta 93616) [REGULAR] dayzmod.com - hosted by Host Altitude\gamever\1.60.93825\numplayers\0\maxplayers\50\mapname\Chernarus
+188.40.106.81:2312 \hostname\DayZ Zombie RPG - Germany 12 (v1.7.1) dayzmod.com - Hosted by Zorrak [Beta] [3p=1]\gamever\1.60.93825\numplayers\9\maxplayers\40\mapname\Chernarus
+64.31.27.194:2314 \hostname\DayZ Zombie RPG - North American Server 1 (1.7) dayzmod.com hosted www.ychromozone.com Stealth Server\gamever\1.60.93825\numplayers\4\maxplayers\50\mapname\Chernarus
+176.31.91.237:2302 \hostname\DayZ - FR9 (v1.7.0) [Regular][GMT][BEC:ON][VOICE:OFF] dayzmod.com - hosted by BigClan.co.uk\gamever\1.60.93349\numplayers\17\maxplayers\40\mapname\Chernarus
+199.116.113.82:2326 \hostname\DayZ Zombie RPG - Atlanta 21 (v1.7.1.1) dayzmod.com - Hosted by Kilo\gamever\1.60.93825\numplayers\15\maxplayers\50\mapname\Chernarus
+199.116.118.8:2342 \hostname\DayZ Zombie RPG - Atlanta 29 (v1.7.1.1) dayzmod.com - Hosted by TLH\gamever\1.60.93825\numplayers\6\maxplayers\25\mapname\Chernarus
+206.217.140.50:2310 \hostname\DayZ - US5 (v1.7.0/Beta 93701) [VETERAN 3DP:ON] [GMT-6] hosted by TF-BLACKJACK.COM\gamever\1.60.93825\numplayers\5\maxplayers\50\mapname\Chernarus
+216.244.75.98:2302 \hostname\DayZ Zombie RPG - Seattle 36 (v1.7.1.1, Beta 93825) dayzmod.com - Hosted by {Foxfall}@http://steamcommunity.com/groups/foxfall\gamever\1.60.93825\numplayers\12\maxplayers\13\mapname\Chernarus
+94.23.236.229:2372 \hostname\DayZ - EU 92 (v1.7.1.1/Beta 93701) [3DP:On CH:On][UTC+1] dayzmod.com - Hosted by Tix92.com | Vilayer.com\gamever\1.60.93702\numplayers\20\maxplayers\24\mapname\Chernarus
+216.244.73.234:2322 \hostname\DayZ Zombie RPG - Seattle 28 (v1.7.1) dayzmod.com - Hosted by Jay\gamever\1.60.93825\numplayers\2\maxplayers\25\mapname\Chernarus
+216.244.73.234:2332 \hostname\DayZ Seattle 29(v1.7.1.1) LATEST UPDATE 10th Mountain\gamever\1.60.93825\numplayers\4\maxplayers\30\mapname\Chernarus
+85.236.105.39:2602 \hostname\DayZ DE #42 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\23\maxplayers\50\mapname\Chernarus
+5.9.5.171:2302 \hostname\DayZ - EU13 (v1.7.1.1) [REGULAR 3DP:on|CH:off|UTC+1] - hosted by =Olut= SISU - SpongeBob SquarePants\gamever\1.60.93825\numplayers\32\maxplayers\40\mapname\Chernarus
+108.60.155.218:2338 \hostname\DayZ - US60 (NY1) (v1.7.0/Beta 93616) [REGULAR] dayzmod.com - hosted by Host Altitude\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+85.236.105.39:2502 \hostname\DayZ DE #38 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+74.63.232.178:2314 \hostname\DayZ Zombie RPG - Dallas 41 (v1.7 Beta.93415+) dayzmod.com - Hosted by ZXDD\gamever\1.60.93825\numplayers\4\maxplayers\45\mapname\Chernarus
+199.116.118.8:2322 \hostname\DayZ Zombie RPG - Atlanta 27 (v1.7.1.1) dayzmod.com - Hosted by specops-clan.com\gamever\1.60.93825\numplayers\5\maxplayers\25\mapname\Chernarus
+199.116.113.82:2338 \hostname\DayZ Zombie RPG - Atlanta 20 (v1.7.1.1) dayzmod.com - Hosted by Kilo\gamever\1.60.93825\numplayers\5\maxplayers\50\mapname\Chernarus
+74.91.122.232:2302 \hostname\DayZ - US 10 Chicago (v1.7.1.1/Beta 93825) [VETERAN 3DP:OFF LIGHTING:FILMIC][GMT-6] dayzmod.com - hosted by RageCageGaming.com\gamever\1.60.93825\numplayers\10\maxplayers\56\mapname\Chernarus
+216.231.140.78:2314 \hostname\DayZ Zombie RPG - Chicago 29 (v1.7) Beta Required dayzmod.com - Hosted By Dayzserverhosting.com\gamever\1.60.93825\numplayers\3\maxplayers\25\mapname\Chernarus
+88.198.106.58:2302 \hostname\DayZ - EU20 (v1.7.1.1) [VETERAN 3DP:off|CH:off|UTC-3] - =Olut= SISU (olutta.org) - Arcus\gamever\1.60.93825\numplayers\29\maxplayers\40\mapname\Chernarus
+199.116.118.12:2342 \hostname\DayZ Zombie RPG - Atlanta 44 (v1.7.1.1) dayzmod.com - Hosted by Killapoo\gamever\1.60.93825\numplayers\9\maxplayers\25\mapname\Chernarus
+119.252.190.41:2402 \hostname\DayZ - ANZ 4 (v1.7.1.1) [VET][GMT -2] dayzmod.com - Hosted by AUSARMA.org\gamever\1.60.93668\numplayers\39\maxplayers\40\mapname\Chernarus
+85.236.105.40:2602 \hostname\DayZ DE #43 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\15\maxplayers\50\mapname\Chernarus
+94.242.227.10:2322 \hostname\Dayz Zombie RPG - EU75 (v1.7.1.1) dayzmod.com -={Fallschirmjaegerbataillon 645}=- & -=[C-COM]=-Covenant-Commandos\gamever\1.60.93702\numplayers\10\maxplayers\24\mapname\Chernarus
+212.227.20.96:2302 \hostname\DayZ DE 15 - (v1.7.1.1BETA/93825) [VETERAN 3DP:OFF][GMT+1] dayzmod.com - Hosted by g-c-p.de\gamever\1.60.93825\numplayers\8\maxplayers\20\mapname\Chernarus
+216.244.87.170:2302 \hostname\DayZ Zombie RPG - Seattle 11 (v1.7) dayzmod.com - Hosted by Kiotie\gamever\1.60.93825\numplayers\5\maxplayers\25\mapname\Chernarus
+199.116.118.8:2332 \hostname\DayZ Zombie RPG - Atlanta 28 (v1.7.1) dayzmod.com - Hosted by Hosted by: hfbservers.com\gamever\1.60.93825\numplayers\3\maxplayers\25\mapname\Chernarus
+94.242.227.10:2332 \hostname\DayZ - EU72 (1.7.1.1, 93701)[3dp:on ch:on dif:regular] dayzmod.com - Hosted by 83rd Honor Guards and {TST}\gamever\1.60.93702\numplayers\8\maxplayers\30\mapname\Chernarus
+108.60.128.93:2302 \hostname\DayZ - US65 (v1.7.0/93415) [REGULAR 3DP:ON CH:ON][GMT -7] - Hosted by Stormchao - Used to be NY10\gamever\1.60.93702\numplayers\0\maxplayers\50\mapname\Chernarus
+216.244.73.234:2312 \hostname\DayZ Zombie RPG - Seattle 27 (v1.7.0) dayzmod.com - Hosted by The Neckbeard Consortium\gamever\1.60.93825\numplayers\6\maxplayers\25\mapname\Chernarus
+23.19.120.51:2314 \hostname\DayZ Zombie RPG - Chicago 5 [Expert] (v1.7.0) dayzmod.com - Hosted by Robert/Vipeax\gamever\1.60.91138\numplayers\8\maxplayers\60\mapname\Chernarus
+88.198.87.213:2502 \hostname\DayZ - FI 1 (v1.7.1.1) [VETERAN 3DP:off|CH:off|UTC] - hosted by =Olut= SISU (olutta.org) - Hardcore\gamever\1.60.93825\numplayers\33\maxplayers\40\mapname\Chernarus
+108.60.128.91:2302 \hostname\DayZ - US 37 NY5 (v1.7.1.1/93825) [VETERAN 3DP:ON LIGHTING:FILMIC][GMT-7] dayzmod.com - hosted by Colonel_Black & Oxtox/Dennis\gamever\1.60.93825\numplayers\6\maxplayers\50\mapname\Chernarus
+66.23.224.58:2314 \hostname\DayZ - NY8 (v1.7.1.1/Beta 93825) [VETERAN][GMT-7] dayzmod.com - hosted by Faindizzle\gamever\1.60.93825\numplayers\5\maxplayers\50\mapname\Chernarus
+23.29.117.182:2302 \hostname\DayZ - US 88 TX 14 (v1.7.1.1/Beta 93825) [VETERAN CH:OFF 3DP:OFF][GMT-9] dayzmod.com - hosted by AdenFlorian and EndDayZ.com\gamever\1.60.93825\numplayers\6\maxplayers\45\mapname\Chernarus
+88.190.16.134:2302 \hostname\French War Server Connexion +++ DayZ +++ Version 1.6.0.1 ONLY + BETA PATCH OA 93825\gamever\1.60.93825\numplayers\0\maxplayers\20\mapname\Chernarus
+94.242.227.14:2322 \hostname\Dayz Zombie RPG - EU25 (v1.7.1.1) dayzmod.com - Vilayer.com & CQF\gamever\1.60.93702\numplayers\10\maxplayers\50\mapname\Chernarus
+199.101.184.178:2342 \hostname\DayZ Zombie RPG - Ru101 (v1.7)[Regular][3DR-ON]  dayzmod.com - Hosted by: skart \gamever\1.60.93616\numplayers\10\maxplayers\25\mapname\Chernarus
+50.30.41.48:2312 \hostname\DayZ - US 45 (v1.7.1.1/Beta 93825) [VETERAN|3DP:ON|CH:ON][GMT-5] dayzmod.com - TrinityGames.com 4 SASKLAN.COM\gamever\1.60.93825\numplayers\14\maxplayers\50\mapname\Chernarus
+199.116.118.8:2312 \hostname\DayZ Zombie RPG - Atlanta 26 (v1.7.1.1) dayzmod.com - Hosted by Barcinice\gamever\1.60.93825\numplayers\3\maxplayers\25\mapname\Chernarus
+81.19.211.70:51110 \hostname\DayZ - UK 22 (v1.7.1.1/Beta 93825 Required) [REGULAR][GMT-2] dayzmod.com - Hosted by {SAS} thesasclan.co.uk\gamever\1.60.93825\numplayers\49\maxplayers\50\mapname\Chernarus
+108.60.143.123:2302 \hostname\DayZ Zombie RPG - US70 (Beta 93825 v1.7.1.1) [Veteran][3DP=1][UTC+5] dayzmod.com - hosted by DrTyWords\gamever\1.60.93825\numplayers\13\maxplayers\40\mapname\Chernarus
+199.19.111.18:2302 \hostname\DayZ - NY22 (1.7.1) [3dp:on ch:off] [UTC-6] [maxping 200] dayzmod.com - hosted by Rebel Regiment | Vilayer.com\gamever\1.60.93702\numplayers\0\maxplayers\40\mapname\Chernarus
+94.242.227.10:2312 \hostname\DayZ - EU74 (1.7.1.1/93398) [3dp:on ch:on] [UTC+0] dayzmod.com - hosted by PeaC & Vilayer.com\gamever\1.60.93702\numplayers\7\maxplayers\30\mapname\Chernarus
+178.63.96.145:2312 \hostname\DayZ Zombie RPG - Germany 7 (v1.7.1.1/Beta 93825) [3DP:On CH:On][UTC+1] dayzmod.com - Hosted by Tix92.com\gamever\1.60.93825\numplayers\23\maxplayers\25\mapname\Chernarus
+199.116.118.12:2332 \hostname\DayZ Zombie RPG - Atlanta 42 (v1.7) dayzmod.com - Hosted by Andrew Angel\gamever\1.60.93825\numplayers\1\maxplayers\30\mapname\Chernarus
+94.242.227.14:2332 \hostname\DayZ - UK13 (v1.7.1.1/Beta 93825) [VETERAN][GMT -6] dayzmod.com - hosted by Team Delta Pigs\gamever\1.60.93702\numplayers\38\maxplayers\40\mapname\Chernarus
+199.116.118.2:2332 \hostname\DayZ Zombie RPG - Atlanta 23 (v1.7) dayzmod.com - Hosted by [NDP] No Dumb Pubs\gamever\1.60.93825\numplayers\3\maxplayers\25\mapname\Chernarus
+46.4.85.72:2400 \hostname\DayZ Zombie RPG - DE6 (v1.7.1 Beta 93825) [3DP=on|CH=on|TAGS=Off] UK COMMUNITY (Powered by DAO.nu)\gamever\1.60.93825\numplayers\29\maxplayers\50\mapname\Chernarus
+94.23.59.167:2312 \hostname\DayZ - UK 21 (v1.7.1.1/Beta 93825) [VET 3DP:OFF DM:OFF CH:OFF] dayzmod.com - hosted by SWEBAT.nu\gamever\1.60.93825\numplayers\20\maxplayers\50\mapname\Chernarus
+174.142.68.55:2302 \hostname\DayZ - CA1 (v1.7.1/Beta 93825) [MERCENARY|3DP:ON|CH:ON][GMT-12]\gamever\1.60.93825\numplayers\8\maxplayers\30\mapname\Chernarus
+219.88.241.80:2350 \hostname\DayZ Zombie RPG - NZ4 (v1.7.1.1) dayzmod.com - Hosted by Orcon\gamever\1.60.93825\numplayers\50\maxplayers\50\mapname\Chernarus
+198.144.177.210:2902 \hostname\DayZ - US 43 Chicago (v1.7.1/Beta 93825) [VETERAN][GMT-8] dayzmod.com - hosted by MilitaryGaming.org\gamever\1.60.93702\numplayers\7\maxplayers\35\mapname\Chernarus
+216.172.106.85:2302 \hostname\DayZ Zombie RPG - Dallas 44 (v1.7) dayzmod.com - Hosted by fractalillumination.enjin.com\gamever\1.60.93825\numplayers\5\maxplayers\50\mapname\Chernarus
+50.30.41.48:2332 \hostname\DayZ - US 52 (v1.7.1.1/Beta 93825) [VETERAN|3DP:ON|CH:ON][GMT-5] dayzmod.com -TrinityGames.com 4 SASKLAN.COM\gamever\1.60.93825\numplayers\12\maxplayers\50\mapname\Chernarus
+199.116.118.12:2312 \hostname\DayZ Zombie RPG - Atlanta 40 (v1.7.1.1) dayzmod.com - Hosted by Jhuild\gamever\1.60.93825\numplayers\9\maxplayers\25\mapname\Chernarus
+94.242.227.14:2312 \hostname\Dayz EU81 (v1.7.1.1) [VETERAN 3DP:on|CH:on] [GMT+1] hosted by ARMA2 DayZ UK (Steam Group)\gamever\1.60.93702\numplayers\16\maxplayers\40\mapname\Chernarus
+94.76.229.69:2302 \hostname\DayZ - EN1 (v1.7.1.1 / Beta 93825) [Veteran][3DP:ON|CH:OFF][GMT] dayzmod.com - Hosted by NoManDown.com\gamever\1.60.93825\numplayers\30\maxplayers\30\mapname\Chernarus
+199.116.118.2:2322 \hostname\DayZ Zombie RPG - Atlanta 24 (v1.7.1.1) dayzmod.com - Hosted by Aim2WinGaming.com\gamever\1.60.93825\numplayers\4\maxplayers\40\mapname\Chernarus
+94.242.227.10:2362 \hostname\DayZ Zombie RPG - UK92 Regular (v1.7.1 - Beta) GMT+1\gamever\1.60.93702\numplayers\2\maxplayers\40\mapname\Chernarus
+103.22.181.118:2302 \hostname\DayZ Zombie RPG - Thailand 1 (v1.7.1.1/93825) dayzmod.com - Hosted by ArmAThai\gamever\1.60.93825\numplayers\35\maxplayers\45\mapname\Chernarus
+199.116.118.11:2302 \hostname\DayZ Zombie RPG - Atlanta 35 (v1.7.1.1) dayzmod.com - Hosted by Schutze (Vet / CH OFF / 3DP ON)\gamever\1.60.93825\numplayers\16\maxplayers\30\mapname\Chernarus
+219.88.241.80:2338 \hostname\DayZ Zombie RPG - NZ6 (v1.7.1.1) dayzmod.com - Hosted by Orcon\gamever\1.60.93825\numplayers\50\maxplayers\50\mapname\Chernarus
+184.164.138.42:2312 \hostname\Dayz Zombie RPG - AZ2 (v1.7.1.1) - bTd Day Z\gamever\1.60.93702\numplayers\10\maxplayers\40\mapname\Chernarus
+50.30.41.48:2322 \hostname\DayZ - US 46 (v1.7.1.1/Beta 93825) [VETERAN|3DP:ON|CH:ON][GMT-5] dayzmod.com -TrinityGames.com 4 SASKLAN.COM\gamever\1.60.93825\numplayers\8\maxplayers\50\mapname\Chernarus
+85.236.105.35:2602 \hostname\DayZ DE #69 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\17\maxplayers\50\mapname\Chernarus
+94.242.227.10:2342 \hostname\Dayz Zombie RPG - EU24 (v1.7.1.1) dayzmod.com - Vilayer.com & CQF\gamever\1.60.93702\numplayers\42\maxplayers\50\mapname\Chernarus
+199.101.184.178:2312 \hostname\DayZ Zombie RPG - North Carolina 2 (v1.7.1.1) dayzmod.com - Hosted by AzSF\gamever\1.60.93825\numplayers\3\maxplayers\30\mapname\Chernarus
+199.116.118.2:2312 \hostname\DayZ Zombie RPG - Atlanta 22 (v1.7) dayzmod.com - Hosted by Hosted by: Matheus\gamever\1.60.93825\numplayers\4\maxplayers\50\mapname\Chernarus
+94.242.227.14:2352 \hostname\DayZ - FR20 (v1.7.1.1/93825) [3dp:On ch:Off] [UTC+1] dayzmod.com | Vilayer.com\gamever\1.60.93702\numplayers\9\maxplayers\24\mapname\Chernarus
+85.236.105.38:2302 \hostname\DayZ DE #29 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\15\maxplayers\50\mapname\Chernarus
+5.9.14.178:2302 \hostname\DayZ Zombie RPG - DE21 (v1.7.1.1/BETA 93825) [CH:OFF 3DP:ON FILMIC] [UTC+2] dayzmod.com - hosted by CoopY\gamever\1.60.93825\numplayers\23\maxplayers\40\mapname\Chernarus
+85.159.42.196:2322 \hostname\DayZ - RU 11 (v1.7.1.1/Beta 93825) [VETERAN] dayzmod.com - N DuNED2DuNE Warsector.ru\gamever\1.60.93825\numplayers\40\maxplayers\40\mapname\Chernarus
+94.23.231.136:2302 \hostname\Dayz Zombie RPG - IRE2 (v1.7.1) dayzmod.com | Mactire Gaming Eire/UK Survival | Hosted by Alpha Mactire\gamever\1.60.93702\numplayers\3\maxplayers\24\mapname\Chernarus
+81.138.101.165:2302 \hostname\DayZ - UK4 (1.7.1.1/Beta 93825) [Veteran|3DP:On][GMT-4] dayzmod.com - hosted by Greg\gamever\1.60.93825\numplayers\13\maxplayers\40\mapname\Chernarus
+37.59.43.32:2302 \hostname\DayZ - EU 4 (1.7.1.1/93825) [veteran 3DP:OFF CH:OFF LIGHTING:FILMIC][UTC -9] dayzmod.com - hosted by exwizzard\gamever\1.60.93825\numplayers\15\maxplayers\40\mapname\Chernarus
+66.23.224.58:2302 \hostname\DayZ - NY7 (v1.7.1.1/Beta 93825) [VETERAN][GMT-7] dayzmod.com - hosted by Faindizzle\gamever\1.60.93825\numplayers\9\maxplayers\50\mapname\Chernarus
+70.89.14.155:2302 \hostname\DayZ Zombie RPG - GA (v1.6.0.1) hosted by Bhosted.net, St. Marys, GA\gamever\1.60.87548\numplayers\1\maxplayers\50\mapname\Chernarus
+94.51.207.130:2302 \hostname\eXhalation\gamever\1.60.93825\numplayers\1\maxplayers\30\mapname\Chernarus
+216.244.87.162:2302 \hostname\DayZ Zombie RPG - Seattle 7 (v1.7) dayzmod.com - Hosted by Deadbot\gamever\1.60.93825\numplayers\1\maxplayers\25\mapname\Chernarus
+66.90.74.203:2302 \hostname\DayZ - US 4 Chicago (1.7.0/93415)[TAGS:OFF 3DP/CH:ON][GMT-6] dayzmod.com - Sykotix.Com/Unrepentantgaming.org\gamever\1.60.93416\numplayers\3\maxplayers\64\mapname\Chernarus
+85.214.250.201:2302 \hostname\DayZ-ES(v1.7.1.1/Beta 93825)[3dp:on|ch:off][UDT-6]dayzmod.com-hosted by BetaGam3rs\gamever\1.60.93825\numplayers\28\maxplayers\64\mapname\Chernarus
+199.101.184.178:2332 \hostname\DayZ - North Carolina 4 (1.7.1.1) Veteran + 3rd Person - Hosted by Dreadnaughts\gamever\1.60.93825\numplayers\5\maxplayers\25\mapname\Chernarus
+85.159.42.196:2312 \hostname\DayZ - RU 10 (v1.7.1.1) [VETERAN] dayzmod.com - RaVen and ATLanT NeBeS\gamever\1.60.93825\numplayers\20\maxplayers\20\mapname\Chernarus
+184.170.244.10:2402 \hostname\DayZ Zombie RPG - LA 3 (v1.7) Beta Required dayzmod.com - Hosted by BlackList\gamever\1.60.93825\numplayers\9\maxplayers\25\mapname\Chernarus
+184.170.244.10:2414 \hostname\DayZ Zombie RPG - LA 4 (v1.7) Beta Required dayzmod.com - Hosted by JCT\gamever\1.60.93825\numplayers\4\maxplayers\50\mapname\Chernarus
+199.116.113.83:2414 \hostname\DayZ Zombie RPG - Atlanta 13 (v1.7) dayzmod.com - Hosted by www.fomportal.com\gamever\1.60.93825\numplayers\5\maxplayers\50\mapname\Chernarus
+64.79.106.155:2322 \hostname\DayZ Zombie RPG - Chicago 39 (v1.7.1.1) dayzmod.com - Hosted by EntitledGamer.com\gamever\1.60.93825\numplayers\12\maxplayers\50\mapname\Chernarus
+89.208.11.247:2314 \hostname\DayZ - RU14 (v1.7.0/Beta 93666) [VETERAN|3DP:OFF|CH:OFF][GMT+4] dayzmod.com - hosted by www.Game-Pub.com\gamever\1.60.93668\numplayers\24\maxplayers\50\mapname\Chernarus
+23.19.35.162:2302 \hostname\DayZ - Seattle 66 (v1.7.1/Beta 93825) [REGULAR|3DP:ON|CH:ON][GMT-8] dayzmod.com - hosted by Eston\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+64.79.106.155:2332 \hostname\DayZ Zombie RPG - SLC1 (v1.7) dayzmod.com - Hosted by =HA= Heavily Armed www.heavilyarmedclan.com\gamever\1.60.93825\numplayers\5\maxplayers\50\mapname\Chernarus
+94.242.227.14:2342 \hostname\DayZ - LU10 (1.7.1.1)dayzmod.com | Vilayer.com\gamever\1.60.93702\numplayers\5\maxplayers\24\mapname\Chernarus
+79.161.157.131:2302 \hostname\DayZ - Norway 1 (v1.7.1/Beta 93825) dayzmod.com - Hosted by Silentspy\gamever\1.60.93825\numplayers\23\maxplayers\50\mapname\Chernarus
+118.152.120.4:2302 \hostname\DayZ Zombie RPG - JP1 (v1.7.1.1) requiredBuild 93825  - Hosted by total22jp.com\gamever\1.60.93825\numplayers\49\maxplayers\50\mapname\Chernarus
+188.40.106.81:2302 \hostname\DayZ Zombie RPG - Germany 11 (v1.7) dayzmod.com - Hosted by DerpSquad\gamever\1.60.93616\numplayers\25\maxplayers\25\mapname\Chernarus
+199.101.184.178:2322 \hostname\DayZ Zombie RPG - North Carolina 3 (v1.7.1.1) dayzmod.com - Hosted by Kreatohr (UTC-7)\gamever\1.60.93825\numplayers\9\maxplayers\50\mapname\Chernarus
+81.88.208.212:2302 \hostname\DayZ - RU 13 (v1.7.1.1/Beta 93825) [VETERAN] dayzmod.com - N D`D`DuN,N N  D2 D`NEDuD%D`Nf\gamever\1.60.93825\numplayers\29\maxplayers\30\mapname\Chernarus
+199.116.113.83:2402 \hostname\DayZ Zombie RPG - Atlanta 12 (v1.7) dayzmod.com - Hosted by dbltap.com\gamever\1.60.93825\numplayers\2\maxplayers\25\mapname\Chernarus
+203.167.236.183:2302 \hostname\DayZ - NZ1 (v1.7.1.1/Beta 93825) [VETERAN][UTC+8] dayzmod.com - Hosted by ON3 Network\gamever\1.60.93825\numplayers\50\maxplayers\50\mapname\Chernarus
+216.244.82.194:2332 \hostname\DayZ Zombie RPG - Seattle 56 (v1.7.1.1) dayzmod.com - Hosted by Nekrage\gamever\1.60.93825\numplayers\4\maxplayers\50\mapname\Chernarus
+109.15.143.200:2302 \hostname\The Walking Dead Experience 1.7.1\gamever\1.60.87548\numplayers\4\maxplayers\20\mapname\Chernarus
+69.162.79.242:2302 \hostname\DayZ Zombie RPG - Dallas 23 (v1.7) dayzmod.com - Hosted by Africanized Bees\gamever\1.60.93825\numplayers\2\maxplayers\50\mapname\Chernarus
+216.231.140.78:2402 \hostname\DayZ Zombie RPG - Chicago 30 (v1.7) Beta Required dayzmod.com - DodgeCity Hardcore\gamever\1.60.93825\numplayers\8\maxplayers\50\mapname\Chernarus
+123.30.180.165:2314 \hostname\DayZ VN1 (v1.7.1.1)[3DP:OFF|CH:OFF|GMT+7] dayzmod.com - Hosted by ArmAVN.Com\gamever\1.60.93825\numplayers\24\maxplayers\40\mapname\Chernarus
+176.9.39.181:2402 \hostname\DayZ - EU31 (v1.7.1.1) [REGULAR 3DP:on|CH:on|UTC-3] - =Olut= SISU (olutta.org) - CAD Server\gamever\1.60.93825\numplayers\38\maxplayers\40\mapname\Chernarus
+64.79.106.155:2312 \hostname\DayZ Zombie RPG - Chicago 38 (v1.7.1) dayzmod.com - Hosted by hfbservers.com\gamever\1.60.93825\numplayers\3\maxplayers\25\mapname\Chernarus
+219.88.241.80:2326 \hostname\DayZ Zombie RPG - NZ5 (v1.7.1.1) dayzmod.com - Hosted by Orcon\gamever\1.60.93825\numplayers\47\maxplayers\50\mapname\Chernarus
+216.244.73.90:2302 \hostname\DayZ Zombie RPG - seattle 18 (v1.7) dayzmod.com - Hosted by Picazzo.net\gamever\1.60.93825\numplayers\4\maxplayers\25\mapname\Chernarus
+46.163.68.161:2302 \hostname\DayZ - DE 10 (v1.7.0/Beta 93825) [3dp:off ch:off names:off vehicles:on] [UTC-6] dayzmod.com - Hosted by CASPAR\gamever\1.60.93825\numplayers\9\maxplayers\40\mapname\Chernarus
+207.237.75.78:2302 \hostname\DayZ - US103 (v1.7.1/Beta 93701) [VETERAN|CH:ON][EST] dayzmod.com - hosted by wolfpackclan.com / Thomas Dean\gamever\1.60.93702\numplayers\0\maxplayers\15\mapname\Chernarus
+66.150.121.81:2402 \hostname\DayZ - BRA1 (v1.7.1.1/Beta 93825) [VETERAN 3DP:ON][GMT-6] dayzmod.com - Hosted by CoalizaoBrasil.com\gamever\1.60.93825\numplayers\12\maxplayers\50\mapname\Chernarus
+85.25.246.94:2302 \hostname\DayZ - EU666 (v1.7.1/Beta 93825) [VETERAN|3DP:ON|CH:ON][GMT+2] dayzmod.com - hosted by www.dayzwiki.de\gamever\1.60.93825\numplayers\0\maxplayers\50\mapname\Chernarus
+216.244.73.250:2302 \hostname\DayZ Zombie RPG - SERVER LOCATION (v1.7) dayzmod.com - Hosted by HiresX\gamever\1.60.93616\numplayers\16\maxplayers\50\mapname\Chernarus
+85.236.105.39:2702 \hostname\DayZ DE #46 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\13\maxplayers\50\mapname\Chernarus
+85.236.105.40:2702 \hostname\DayZ DE #47 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\18\maxplayers\50\mapname\Chernarus
+46.105.61.106:2302 \hostname\DayZ - EU 39 (1.7.1.1/93825) [veteran 3DP:OFF CH:OFF LIGHTING:FILMIC][UTC -9] dayzmod.com - hosted by exwizzard\gamever\1.60.93825\numplayers\18\maxplayers\30\mapname\Chernarus
+216.244.82.194:2322 \hostname\DayZ Zombie RPG - Seattle 55 (v1.7.1) dayzmod.com - Hosted by imbacomputersolutions.com\gamever\1.60.93825\numplayers\6\maxplayers\25\mapname\Chernarus
+23.29.115.252:2414 \hostname\DayZ Zombie RPG - TX4 [V1.7.1 Beta 93701] [Regular]\gamever\1.60.93702\numplayers\5\maxplayers\30\mapname\Chernarus
+78.41.201.56:2322 \hostname\DayZ NL10 (v1.7.1/93825) [VETERAN 3DP:ON][GMT+0] dayzmod.com - hosted by Gerry\gamever\1.60.93825\numplayers\3\maxplayers\40\mapname\Chernarus
+216.231.140.78:2414 \hostname\DayZ - US CHICAGO 31 (v1.7.0/Beta 93415) [VETERAN 3DP:ON][GMT - 11] dayzmod.com - hosted by vowsclan.net\gamever\1.60.93825\numplayers\2\maxplayers\25\mapname\Chernarus
+216.244.82.194:2312 \hostname\DayZ Zombie RPG - Seattle 54 (v1.7.1.1) dayzmod.com - Hosted by danielmountford.ca\gamever\1.60.93825\numplayers\24\maxplayers\25\mapname\Chernarus
+123.2.191.133:2302 \hostname\DayZ 1.6.0.1 Server (NO-CDKey) [1.60 + Beta]\gamever\1.60.87548\numplayers\7\maxplayers\50\mapname\Chernarus
+173.242.124.59:2302 \hostname\Dayz Zombie RPG - US20 (v1.7.1.1) dayzmod.com - Vilayer.com & CQF\gamever\1.60.93702\numplayers\14\maxplayers\50\mapname\Chernarus
+88.198.87.213:2402 \hostname\DayZ - EU7 (v1.7.1.1) [REGULAR 3DP:on|CH:off|UTC] - hosted by =Olut= SISU (olutta.org) - day-z.fr\gamever\1.60.93825\numplayers\34\maxplayers\40\mapname\Chernarus
+78.129.149.155:2302 \hostname\DayZ - Belgium 1 (1.7.1.1) [Veteran 3DP:ON][CH:OFF][+1] dayzmod.com - hosted by Worldsendgaming\gamever\1.60.93825\numplayers\5\maxplayers\50\mapname\Chernarus
+23.29.119.94:2302 \hostname\DayZ - US99 (v1.7.1.1/93825) dayzmod.com - Hosted By RoosterTeeth\gamever\1.60.93825\numplayers\17\maxplayers\50\mapname\Chernarus
+23.29.115.228:2302 \hostname\DayZ Zombie RPG - US Hardcore 1 (v1.7.1.1) !Beta 93825 Required! dayzmod.com - hosted by www.13thsfg.com\gamever\1.60.93825\numplayers\12\maxplayers\50\mapname\Chernarus
+23.29.116.245:2302 \hostname\DayZ -TX11 - US86 (1.7)[Regular][+7]dayzmod.com - Hosted by: XtremeOwnage.com\gamever\1.60.91138\numplayers\4\maxplayers\50\mapname\Chernarus
+64.79.106.155:2342 \hostname\DayZ Zombie RPG - Chicago 57 (v1.7.1) dayzmod.com - Hosted by Greg\gamever\1.60.93825\numplayers\4\maxplayers\25\mapname\Chernarus
+23.29.118.203:2302 \hostname\US23 (v1.7.1.1) [VETERAN|3DP:ON][UTC -8][MaxPing:150]\gamever\1.60.93825\numplayers\4\maxplayers\50\mapname\Chernarus
+85.236.105.37:2602 \hostname\DayZ DE #40 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+5.9.7.87:2302 \hostname\DayZ Zombie RPG DE65 (v1.7.1.1/Beta 93825) [REGULAR][LIGHTING:FILMIC] [UTC-12] dayzmod.com - GrimFandango\gamever\1.60.93825\numplayers\13\maxplayers\50\mapname\Chernarus
+216.144.255.186:2302 \hostname\DayZ Zombie RPG - Dallas 33 (v1.7) Beta Required dayzmod.com - Hosted by Dayzserverhosting.com\gamever\1.60.93825\numplayers\8\maxplayers\25\mapname\Chernarus
+213.133.109.179:2352 \hostname\DayZ Zombie RPG - Germany 16 (v1.7.1 - Beta 93825) dayzmod.com [3DP:On|CH:On] Hosted by TeamAFX.net\gamever\1.60.93825\numplayers\28\maxplayers\40\mapname\Chernarus
+5.9.6.41:2302 \hostname\DayZ - FI 2 (v1.7.1.1) [VETERAN 3DP:on|CH:off|UTC+1] - hosted by =Olut= SISU -  Siempre Patus\gamever\1.60.93825\numplayers\29\maxplayers\30\mapname\Chernarus
+85.31.186.181:2311 \hostname\DayZ Zombie RPG - DE8 (v1.7.1.1/Beta 93825) dayzmod.com - hosted by ARMA-RP.COM\gamever\1.60.93825\numplayers\40\maxplayers\40\mapname\Chernarus
+199.96.83.199:2302 \hostname\DayZ - US 105 (Beta 1.7.1) [Regular][GMT -6] dayzmod.com - hosted by Sacmo\gamever\1.60.93702\numplayers\5\maxplayers\50\mapname\Chernarus
+220.245.130.4:2302 \hostname\DayZ Zombie Filming Server \gamever\1.60.93668\numplayers\0\maxplayers\45\mapname\Chernarus
+85.236.105.38:2702 \hostname\DayZ DE #45 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\2\maxplayers\50\mapname\Chernarus
+78.129.202.206:2302 \hostname\DayZ - UK 7 (v1.7.1.1/beta 93825) [VETERAN 3DP:OFF LIGHTING:FILMIC][GMT] dayzmod.com - hosted by Kellys Heroes\gamever\1.60.93825\numplayers\35\maxplayers\40\mapname\Chernarus
+95.154.113.76:2302 \hostname\DayZ - RU21 (1.7.1.1/beta 93825) [REGULAR][GMT+11] dayzmod.com - hosted by inetvl.ru\gamever\1.60.93825\numplayers\15\maxplayers\50\mapname\Chernarus
+94.242.227.2:2302 \hostname\DayZ - EU61 London UK (1.7.1.1) [3dp:on ch:on][veteran][utc+1]dayzmod.com - TiTClan\gamever\1.60.93702\numplayers\24\maxplayers\24\mapname\Chernarus
+81.19.212.42:2300 \hostname\DayZ - UK 25 (v1.7.0/Beta 93825) [Veteran|3DP:ON|CH:OFF][GMT+1] dayzmod.com - hosted by =|[UX]|= Urban Xtreme\gamever\1.60.93825\numplayers\26\maxplayers\40\mapname\Chernarus
+66.212.17.219:2322 \hostname\DayZ - LA 7 (v1.7.0) dayzmod.com - Hosted by www.Youtube.com/rhinoCRUNCH\gamever\1.60.93825\numplayers\38\maxplayers\50\mapname\Chernarus
+74.63.232.178:2302 \hostname\DayZ Zombie RPG - Dallas 40 (v1.7) dayzmod.com - Hosted by Gilboa\gamever\1.60.93825\numplayers\4\maxplayers\50\mapname\Chernarus
+50.30.41.48:2302 \hostname\DayZ US 44 (v1.7.1.1/Beta 93825) [VETERAN|3DP:ON|CH:ON][GMT-5] dayzmod.com - TrinityGames.com 4 SASKLAN.COM\gamever\1.60.93825\numplayers\13\maxplayers\50\mapname\Chernarus
+66.212.17.219:2332 \hostname\DayZ Zombie RPG - LA 8 (v1.7.1.1/Beta 93825) dayzmod.com - Hosted by Team Mediocre\gamever\1.60.93825\numplayers\49\maxplayers\50\mapname\Chernarus
+213.133.109.179:2342 \hostname\DayZ Zombie RPG - Germany 5 (v1.7.1) dayzmod.com - Hosted by Feelin \gamever\1.60.93825\numplayers\25\maxplayers\25\mapname\Chernarus
+94.23.236.9:2362 \hostname\[FR][GID] Serveur Privee - [GID Pack 10]\gamever\1.60.87589\numplayers\0\maxplayers\20\mapname\cmr_cicada
+193.200.100.25:2326 \hostname\DayZ - UK5 (v1.7.1.1/Beta 93825) [VETERAN 3DP:ON CH:OFF][GMT+1] dayzmod.com - hosted by [AQ]Anquer-Quare.com\gamever\1.60.93825\numplayers\46\maxplayers\50\mapname\Chernarus
+216.244.82.194:2342 \hostname\DayZ Zombie RPG - Seattle 57(v1.7.1) dayzmod.com - Hosted by =HOG=\gamever\1.60.93825\numplayers\2\maxplayers\30\mapname\Chernarus
+64.31.27.194:2302 \hostname\DayZ Zombie RPG - Dallas 27 (v1.7) dayzmod.com - Hosted by: Clockwork Soldiers\gamever\1.60.93825\numplayers\4\maxplayers\50\mapname\Chernarus
+84.2.213.74:2302 \hostname\Metanithers Server DayZ 1.6 [ NO cd-key ]\gamever\1.60.87548\numplayers\9\maxplayers\10\mapname\Chernarus
+108.60.147.42:2302 \hostname\DayZ - NY23 (v1.7.1 Build 93825) [VET][GMT-8) dayzmod.com - Hosted by MoldenHeath.net\gamever\1.60.93825\numplayers\8\maxplayers\50\mapname\Chernarus
+216.172.106.85:2314 \hostname\DayZ Zombie RPG - Dallas 45 (v1.7) dayzmod.com - Hosted by www.archistudios.com.br\gamever\1.60.93825\numplayers\9\maxplayers\25\mapname\Chernarus
+184.164.138.42:2302 \hostname\DayZ - [PATCH INSTALLATION TESTING] AZ1 (v1.7.1.1 BETA 93701) dayzmod.com - [Trojan Men] Veteran | Vilayer.com\gamever\1.60.93702\numplayers\5\maxplayers\24\mapname\Chernarus
+46.254.21.18:2302 \hostname\armadayz.ru server first test\gamever\1.60.93668\numplayers\1\maxplayers\1\mapname\Chernarus
+23.19.120.51:2302 \hostname\DayZ Zombie RPG - Chicago 6 (v1.7.0 dayzmod.com - Hosted by Sturmgrenadier.com [Expert]\gamever\1.60.91138\numplayers\8\maxplayers\60\mapname\Chernarus
+66.212.17.219:2312 \hostname\DayZ - LA 6 (v1.7.1.1/beta 93825) [3dp:off ch:off] [UTC-8] dayzmod.com - Hosted by Nerdy & JWJ\gamever\1.60.93825\numplayers\11\maxplayers\30\mapname\Chernarus
+85.236.98.101:2302 \hostname\DayZ - UK8 (1.7.1 / Beta 93825) [Veteran][GMT+1] dayzmod.com - hosted by wtf.Gaming Community\gamever\1.60.93825\numplayers\6\maxplayers\50\mapname\Chernarus
+46.4.89.98:2900 \hostname\DayZ - DE2 (v1.7.1/beta 93825) [3dp:off ch:off] [UTC-8] dayzmod.com - hosted by DAO.nu\gamever\1.60.93825\numplayers\9\maxplayers\60\mapname\Chernarus
+89.221.207.250:2302 \hostname\DayZ - RU (1.7.1.1/93825)[VET][ALL:OFF][GMT+4] - SUB7games.com\gamever\1.60.93825\numplayers\56\maxplayers\56\mapname\Chernarus
+108.60.128.92:2302 \hostname\DayZ - US66 NY (v1.7.1.1/Beta 93825) [Regular][GMT -5] dayzmod.com - hosted by ProjectRadiance.net\gamever\1.60.93825\numplayers\7\maxplayers\35\mapname\Chernarus
+178.140.53.111:2302 \hostname\CramerStation Test 2\gamever\1.60.93668\numplayers\34\maxplayers\40\mapname\Chernarus
+216.244.73.82:2302 \hostname\DayZ Zombie RPG - Seattle 22 Quebec Spot (v1.7.1.1 Beta 93825) dayzmod.com - Hosted by BigBoris and Barbe\gamever\1.60.93825\numplayers\8\maxplayers\50\mapname\Chernarus
+216.244.75.98:2342 \hostname\DayZ Zombie RPG - Seattle 42 (v1.7.1) dayzmod.com - Hosted by Zombie Response\gamever\1.60.93825\numplayers\3\maxplayers\50\mapname\Chernarus
+213.133.109.179:2312 \hostname\DayZ Zombie RPG - Germany 2 (v1.7.1) dayzmod.com - Hosted by HFB - [RP SERVER] \gamever\1.60.93825\numplayers\10\maxplayers\50\mapname\Chernarus
+74.63.255.146:2302 \hostname\DayZ Zombie RPG - Dallas 28 (v1.7) Beta Required dayzmod.com - Hosted by dayzserverhosting.com\gamever\1.60.93825\numplayers\9\maxplayers\50\mapname\Chernarus
+203.26.94.194:2302 \hostname\DayZ Zombie RPG - ANZ7 (v1.7.0) dayzmod.com - Hosted by Games.On.Net\gamever\1.60.93825\numplayers\44\maxplayers\50\mapname\Chernarus
+199.19.106.188:2312 \hostname\DayZ - NY 50 (1.7.1.1) [Veteran][UTC-4] dayzmod.com - hosted by Vilayer.com | Vilayer.com\gamever\1.60.93702\numplayers\2\maxplayers\50\mapname\Chernarus
+173.242.124.59:2352 \hostname\DayZ Zombie RPG - US55 (v1.7.1.1) dayzmod.com - TIG.kudzu\gamever\1.60.93702\numplayers\2\maxplayers\40\mapname\Chernarus
+188.165.193.218:2332 \hostname\DayZ Zombie RPG - ESP (Roleplay) (1.7.0) dayzmod.com - Mcers | Vilayer.com\gamever\1.60.93702\numplayers\3\maxplayers\24\mapname\Chernarus
+94.23.230.225:2302 \hostname\Dayz Zombie RPG - EU30 (v1.7.1) dayzmod.com | really Pathetic gamers | Vilayer.com\gamever\1.60.93702\numplayers\2\maxplayers\24\mapname\Chernarus
+85.236.105.41:2502 \hostname\DayZ DE #51 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\13\maxplayers\30\mapname\Chernarus
+64.79.106.155:2302 \hostname\DayZ Zombie RPG - Chicago 37 (v1.7.1.1) without lags - Hosted by hfbservers.com\gamever\1.60.93825\numplayers\8\maxplayers\25\mapname\Chernarus
+193.200.100.25:2314 \hostname\DayZ - UK9 (v1.7.1.1/Beta 93825) [VETERAN 3DP:OFF CH:OFF][GMT+1] dayzmod.com - hosted by [AQ]Anquer-Quare.com\gamever\1.60.93825\numplayers\50\maxplayers\50\mapname\Chernarus
+87.251.217.181:2302 \hostname\DayZ 1.6.0.1 Server (Da-CracKeD) [1.60]\gamever\1.60.87548\numplayers\8\maxplayers\50\mapname\Chernarus
+108.178.45.242:2302 \hostname\DayZ - BRA3 (v1.7.1.1/Beta 93825) [REGULAR|3DP:ON|CH:ON][GMT] dayzmod.com - hosted by DayZBR.com\gamever\1.60.93825\numplayers\34\maxplayers\60\mapname\Chernarus
+74.208.213.119:2302 \hostname\DayZ - US114 Kansas (1.7.1/beta 63825) [REGULAR][GMT+7] dayzmod.com\gamever\1.60.93825\numplayers\6\maxplayers\25\mapname\Chernarus
+216.244.82.82:2312 \hostname\DayZ Zombie RPG - Seattle 49 (v1.7.1.1) dayzmod.com - Hosted by The Clam Bake \gamever\1.60.93825\numplayers\2\maxplayers\50\mapname\Chernarus
+66.212.17.219:2342 \hostname\DayZ Zombie RPG - LA 9 (v1.7.1) dayzmod.com - Hosted by NeverSleep\gamever\1.60.93825\numplayers\1\maxplayers\25\mapname\Chernarus
+203.167.236.183:2802 \hostname\DayZ - NZ10 (v1.7.1.1/Beta 93825) [MAXPING:100][VETERAN][UTC+8] dayzmod.com - Hosted by ON3 Network\gamever\1.60.93825\numplayers\48\maxplayers\50\mapname\Chernarus
+5.9.7.99:2502 \hostname\DayZ - EU18 (v1.7.1.1) [REGULAR 3DP:on|CH:on|UTC+1] - hosted by =Olut= SISU (olutta.org) - Zombie Nation\gamever\1.60.93825\numplayers\38\maxplayers\40\mapname\Chernarus
+46.22.128.230:2302 \hostname\Dayz IRE1 1.7.0 Boards.ie UTC-5 3DP on, CH off Hosted by Villain\gamever\1.60.93825\numplayers\12\maxplayers\35\mapname\Chernarus
+216.244.75.98:2322 \hostname\DayZ US Seattle 38 (regular, CH=on 3DP=on)- Hosted by exotica.name\gamever\1.60.93825\numplayers\2\maxplayers\30\mapname\Chernarus
+74.63.255.146:2314 \hostname\DayZ Zombie RPG - Dallas 29 (v1.7) Beta Required dayzmod.com - A Reddit Server\gamever\1.60.93825\numplayers\4\maxplayers\50\mapname\Chernarus
+64.79.106.136:2322 \hostname\DayZ Zombie RPG - Chicago 35 (v1.7.1.1) - Hosted by TRC\gamever\1.60.93825\numplayers\20\maxplayers\50\mapname\Chernarus
+216.172.106.85:2414 \hostname\DayZ Zombie RPG - Dallas 47 (v1.7) dayzmod.com - Hosted by www.fanaticismgaming.com\gamever\1.60.93825\numplayers\6\maxplayers\45\mapname\Chernarus
+216.244.82.194:2302 \hostname\DayZ Zombie RPG - Seattle 53 (v1.7) dayzmod.com - Hosted by Rarabka233 and Associates\gamever\1.60.93825\numplayers\2\maxplayers\25\mapname\Chernarus
+46.4.89.98:3000 \hostname\DayZ - DE4 {v1.7.1/93825} {3dp:1ch:0}{UTC-8} Dayzmod.com : Murder Inc Clan UK & OCUK Members (Powered by DAO.nu)\gamever\1.60.93825\numplayers\4\maxplayers\55\mapname\Chernarus
+216.244.71.18:2312 \hostname\DayZ Zombie RPG - Seattle 16 (v1.7) dayzmod.com - Hosted by TSGamer\gamever\1.60.93416\numplayers\15\maxplayers\25\mapname\Chernarus
+216.244.75.98:2312 \hostname\DayZ Zombie RPG - Seattle 37 (v1.7.1) dayzmod.com - Hosted by Buckshort\gamever\1.60.93825\numplayers\4\maxplayers\25\mapname\Chernarus
+216.172.106.85:2402 \hostname\DayZ Zombie RPG - Dallas 46 (v1.7) dayzmod.com - Hosted by IronCoathanger\gamever\1.60.93825\numplayers\3\maxplayers\25\mapname\Chernarus
+64.79.106.136:2332 \hostname\DayZ Zombie RPG - Chicago 36 (v1.7) dayzmod.com - Hosted by TIG [Vet + 3rd + CH]\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+216.244.82.82:2332 \hostname\DayZ Zombie RPG - Seattle 51 (v1.7) dayzmod.com - Hosted by HFB and Sae Servers\gamever\1.60.93702\numplayers\1\maxplayers\25\mapname\Chernarus
+46.4.85.72:2500 \hostname\DayZ Zombie RPG - DE7 (v1.7.1) =Throbins Server= =EU= CO-OP ENCOURAGED\gamever\1.60.93825\numplayers\13\maxplayers\20\mapname\Chernarus
+199.116.118.12:2302 \hostname\DayZ Zombie RPG - Atlanta 39 (v1.7.1.1) dayzmod.com - Hosted by Jesse\gamever\1.60.93825\numplayers\22\maxplayers\25\mapname\Chernarus
+85.236.105.40:2402 \hostname\DayZ DE #35 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\10\maxplayers\50\mapname\Chernarus
+94.254.34.149:2402 \hostname\DayZ - SE 10 (v1.7.1.1/Beta 93825) [VETERAN|3DP:ON|LIGHTING:FILMIC][UTC+2] dayzmod.com - Hosted by Tansien\gamever\1.60.93825\numplayers\49\maxplayers\50\mapname\Chernarus
+108.60.128.94:2302 \hostname\DayZ - US70 (v1.7.1.1/Beta 93825) [Veteran 3DP:1 CH:0] dayzmod.com - hosted by [Hades]\gamever\1.60.93825\numplayers\2\maxplayers\20\mapname\Chernarus
+208.115.199.210:2312 \hostname\DayZ Zombie RPG - Dallas 54 (v1.7.1.1) dayzmod.com - Hosted by VigilantAddiction.com\gamever\1.60.93702\numplayers\14\maxplayers\30\mapname\Chernarus
+83.223.83.106:2326 \hostname\DayZ - DE63 Berlin (v1.7.1.1/Beta 93825) [VETERAN|3DP:ON|CH:ON][UTC-10] dayzmod.com - hosted by spielviel.de\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+85.25.246.94:2314 \hostname\DayZ - EU777 (v1.7.1/Beta 93825) [VETERAN|3DP:ON|CH:ON][GMT+2] dayzmod.com - hosted by www.dayzwiki.de\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+94.242.227.34:2302 \hostname\Dayz Zombie RPG - LU10 (v1.7.1.1) - Undead Biceps\gamever\1.60.93702\numplayers\7\maxplayers\30\mapname\Chernarus
+173.242.124.59:2332 \hostname\DayZ Zombie RPG - LU11 (1.7.1.1) dayzmod.com \gamever\1.60.93702\numplayers\2\maxplayers\25\mapname\Chernarus
+216.244.82.82:2322 \hostname\DayZ Zombie RPG - Seattle 50 (v1.7.1.1) beta 93825 required dayzmod.com - Hosted by [S-Inc] Swifty\gamever\1.60.93825\numplayers\4\maxplayers\25\mapname\Chernarus
+193.110.122.198:2302 \hostname\DayZ - PL 1 (v1.7.1.1/Beta 93825) [VETERAN|3DP:OFF|CH:OFF][UTC-6] dayzmod.com - hosted by neostrada tp/Strefa Gier\gamever\1.60.93825\numplayers\29\maxplayers\50\mapname\Chernarus
+195.93.207.43:2302 \hostname\DayZ - RU1 (v1.7.1.1/Beta 93825) [VETERAN][GMT+4] dayzmod.com - by 3ebra.ru\gamever\1.60.93825\numplayers\39\maxplayers\40\mapname\Chernarus
+94.242.227.22:2312 \hostname\DayZ Zombie RPG - EU28 (v1.7.1) - Hosted by bFe\gamever\1.60.93702\numplayers\21\maxplayers\30\mapname\Chernarus
+176.9.101.176:2302 \hostname\DayZ - DE3 - UK (v1.7.1.1/beta 93825) [Veteran 3DP:OFF][GMT+1] dayzmod.com - hosted by BTB\gamever\1.60.93825\numplayers\14\maxplayers\50\mapname\Chernarus
+64.79.106.136:2312 \hostname\DayZ Zombie RPG - Chicago 34 (v1.7.1) dayzmod.com - Hosted by Mowed Gaming\gamever\1.60.93825\numplayers\2\maxplayers\25\mapname\Chernarus
+69.162.83.114:2314 \hostname\DayZ Zombie RPG - Dallas 37 (v1.7) Beta Required dayzmod.com - Hosted by BFE\gamever\1.60.93825\numplayers\5\maxplayers\25\mapname\Chernarus
+208.167.249.42:2302 \hostname\DayZ - US 39 New York (v1.7.1/Beta 93825) [Veteran 3DP:ON CH:OFF DM:OFF][GMT-6] dayzmod.com - hosted by 7thcavalry.us\gamever\1.60.93825\numplayers\2\maxplayers\40\mapname\Chernarus
+216.244.71.18:2322 \hostname\DayZ Zombie RPG - Seattle 17 (v1.7) dayzmod.com - Hosted by D D?D%D`D`D>D,D?N D,N \gamever\1.60.93416\numplayers\10\maxplayers\25\mapname\Chernarus
+23.29.119.227:2302 \hostname\DaYZ - US120 CwT DayZ BRASIL SERVER PARA BRASILEIROS!! [v1.7.1 BETA Veteran 3rd Person]\gamever\1.60.93825\numplayers\2\maxplayers\50\mapname\Chernarus
+188.165.237.199:2306 \hostname\DayZ Zombie RPG - FR7 (v1.7.1) dayzmod.com - Hosted by ArmA Portugal [PT]\gamever\1.60.93825\numplayers\8\maxplayers\40\mapname\Chernarus
+95.211.151.36:3000 \hostname\DayZ - EU-BIGBO (v1.7.1.1/93825) [VEHICLES/HELIS,3DP,CH,VET, LIGHTING: FILMIC] [GMT+1] FUNSERVER\gamever\1.60.93825\numplayers\37\maxplayers\40\mapname\Chernarus
+216.244.82.82:2342 \hostname\DayZ Zombie RPG - Seattle 52 (v1.7) dayzmod.com - Hosted by ShootingTheGap\gamever\1.60.93702\numplayers\2\maxplayers\25\mapname\Chernarus
+176.227.198.82:2302 \hostname\DayZ - UK 26 (v1.7.0/Beta 93825) [HARDCORE|3DP:OFF|CH:OFF][GMT -12] hosted by iogc.co.uk\gamever\1.60.93825\numplayers\3\maxplayers\50\mapname\Chernarus
+188.165.237.199:2310 \hostname\DayZ Zombie RPG - FR8 (v1.7.1) dayzmod.com - Hosted by ArmA Portugal [PT]\gamever\1.60.93825\numplayers\11\maxplayers\40\mapname\Chernarus
+64.79.106.136:2302 \hostname\DayZ Zombie RPG - Chicago 32 (v1.7) dayzmod.com - Hosted by hfbservers.com\gamever\1.60.93825\numplayers\10\maxplayers\25\mapname\Chernarus
+203.26.94.251:2302 \hostname\DayZ Zombie RPG - ANZ8vet (v1.7.0) dayzmod.com - Hosted by Games.On.Net\gamever\1.60.93825\numplayers\2\maxplayers\50\mapname\Chernarus
+83.223.83.106:2314 \hostname\DayZ - DE26 Berlin (v1.7.1.1/Beta 93825) [VETERAN|3DP:ON|CH:OFF][UTC-10] dayzmod.com - hosted by spielviel.de\gamever\1.60.93825\numplayers\9\maxplayers\50\mapname\Chernarus
+184.154.253.146:2302 \hostname\[Chicago] - ZombieLifeV1 RPG\gamever\1.60.87589\numplayers\1\maxplayers\109\mapname\chernarus
+173.242.124.59:2312 \hostname\Dayz Zombie RPG - US21 (v1.7.1.1) dayzmod.com - Vilayer.com & CQF\gamever\1.60.93702\numplayers\25\maxplayers\50\mapname\Chernarus
+70.42.74.251:2332 \hostname\DayZ - US 4 (v1.7.1.1/Beta 93825) [EXPERT 3DP:OFF CH:OFF][GMT -5] dayzmod.com - hosted by UnitedOperations.net\gamever\1.60.93825\numplayers\25\maxplayers\50\mapname\Chernarus
+66.150.121.105:2314 \hostname\DayZ Zombie RPG - NYC 7 (v1.7.1.1) dayzmod.com - provided by [MISC]\gamever\1.60.93825\numplayers\27\maxplayers\50\mapname\Chernarus
+216.144.255.186:2402 \hostname\DayZ Zombie RPG - Dallas 35 (v1.7) Beta Required dayzmod.com - Hosted by dayzserverhosting.com - Z3ltu\gamever\1.60.93825\numplayers\5\maxplayers\25\mapname\Chernarus
+23.29.119.78:2302 \hostname\DayZ - US98 (v1.7.1.1/Beta 93825) [VETERAN][GMT+9] dayzmod.com - Hosted by Host Altitude\gamever\1.60.93825\numplayers\5\maxplayers\50\mapname\Chernarus
+217.23.1.190:2302 \hostname\DayZ Zombie RPG - NL2 - (v1.7.0 Beta Client Optional) dayzmod.com\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+62.205.144.144:2302 \hostname\Dayz - UA1 (1.7.0/beta 93616) [expert][GMT-4] dayzmod.com - hosted by VBIOS.com\gamever\1.60.93616\numplayers\12\maxplayers\40\mapname\Chernarus
+203.167.236.183:2402 \hostname\DayZ - NZ2 (v1.7.1.1/Beta 93825) [REGULAR][UTC+8] dayzmod.com - Hosted by ON3 Network\gamever\1.60.93825\numplayers\50\maxplayers\50\mapname\Chernarus
+216.144.255.186:2414 \hostname\DayZ Zombie RPG - Dallas FRA (v1.7) Beta Required dayzmod.com - Hosted by StrasTeam\gamever\1.60.93825\numplayers\12\maxplayers\50\mapname\Chernarus
+216.244.87.170:2402 \hostname\DayZ Zombie RPG - Seattle 13 (v1.7) dayzmod.com - Hosted by The Day Z Alliance\gamever\1.60.93825\numplayers\4\maxplayers\50\mapname\Chernarus
+37.59.229.103:2302 \hostname\DayZ Zombie RPG FR16 (v1.7.1.1/Beta 93825) [VETERAN|3DP:ON|CH:ON][UTC -5] dayzmod.com Hosted by =OSF=\gamever\1.60.93825\numplayers\23\maxplayers\50\mapname\Chernarus
+70.90.182.25:2302 \hostname\DayZ US 130 Olympia (v1.7.0/Beta 93701)[Regular][GMT-7] dayzmod.com - hosted by Blacksheep Technology\gamever\1.60.93825\numplayers\3\maxplayers\50\mapname\Chernarus
+176.9.151.25:2302 \hostname\DayZ - DE24 (v1.7.1/Beta 93825) [EXPERT 3DP:OFF|CH:OFF][UTC-6] dayzmod.com - hosted by PureSMP.net\gamever\1.60.93825\numplayers\7\maxplayers\36\mapname\Chernarus
+108.175.9.206:2314 \hostname\DayZ Zombie RPG - US12 [Roleplaying] Standard ruleset, no nametags (v1.6.0.1) dayzmod.com - hosted by H\gamever\1.60.87548\numplayers\4\maxplayers\50\mapname\Chernarus
+69.162.83.114:2414 \hostname\DayZ Zombie RPG - Dallas 39 (v1.7) dayzmod.com - Hosted by www.clan-valkyria.es\gamever\1.60.93825\numplayers\4\maxplayers\25\mapname\Chernarus
+81.0.236.125:2302 \hostname\DayZ - CZ01 (Prague,EU)(1.7.1.1/beta 93825) [Veteran 3DP:ON CH:ON LIGHTING:FILMIC] [CET-5] dayzmod.com\gamever\1.60.93825\numplayers\23\maxplayers\34\mapname\Chernarus
+216.244.87.170:2414 \hostname\DayZ Zombie RPG - Seattle 14 (v1.7) dayzmod.com - Hosted by: ARB)Reaper and HFBservers.com\gamever\1.60.93825\numplayers\2\maxplayers\25\mapname\Chernarus
+74.208.123.222:2302 \hostname\DayZ - US Kansas 1 (v1.7.1.1/b93825 required) [Regular, 3DP:ON][GMT +9] dayzmod.com - hosted by n0ob.com\gamever\1.60.93825\numplayers\20\maxplayers\50\mapname\Chernarus
+31.170.106.42:2300 \hostname\DayZ - DE60 (v1.7.1/Beta 93825) [VETERAN|3DP:ON|CH:ON][GMT+2] dayzmod.com - hosted by Blergh of Tritnaha\gamever\1.60.93825\numplayers\31\maxplayers\40\mapname\Chernarus
+119.252.190.41:2302 \hostname\DayZ - ANZ 3 (v1.7.1.1) [VET][GMT -2] dayzmod.com - Hosted by AUSARMA.org\gamever\1.60.93668\numplayers\39\maxplayers\40\mapname\Chernarus
+70.42.74.251:2312 \hostname\DayZ - US 3 (v1.7.1.1/Beta 93825) [EXPERT 3DP:OFF CH:OFF][GMT -5] dayzmod.com - hosted by UnitedOperations.net\gamever\1.60.93825\numplayers\9\maxplayers\50\mapname\Chernarus
+219.88.241.80:2302 \hostname\DayZ Zombie RPG - NZ3 (v1.7.1.1) dayzmod.com - Hosted by Orcon\gamever\1.60.93825\numplayers\50\maxplayers\50\mapname\Chernarus
+46.4.114.66:2302 \hostname\Testserver Powerd by Death-Servers.com\gamever\1.60.87548\numplayers\0\maxplayers\20\mapname\Chernarus
+85.227.232.25:2302 \hostname\dayZ 1.7 all welcome hosted by AxVafan\gamever\1.60.87580\numplayers\8\maxplayers\20\mapname\Chernarus
+69.162.85.58:2302 \hostname\DayZ Zombie RPG - Dallas 22 [1.7.1.1] [7th Operations]\gamever\1.60.93825\numplayers\7\maxplayers\60\mapname\Chernarus
+199.116.113.81:2414 \hostname\DayZ Zombie RPG - Atlanta 9 (v1.7) dayzmod.com - Hosted by www.moderntopia.com\gamever\1.60.93825\numplayers\6\maxplayers\50\mapname\Chernarus
+85.236.105.35:2402 \hostname\DayZ DE #67 (1.7.1/93825) [VET][GMT+1] dayzmod.com hosted by MultiplayGameservers\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+84.90.12.250:2302 \hostname\DayZ 1.7.1 TLC Server\gamever\1.60.87548\numplayers\1\maxplayers\50\mapname\Chernarus
+85.10.195.138:2302 \hostname\DayZ - EU 21 (v1.7.1.1/Beta 93825) [VETERAN|3DP:OFF|CH:OFF][GMT+1] dayzmod.com -hosted by MrSherenai\gamever\1.60.93825\numplayers\33\maxplayers\40\mapname\Chernarus
+216.244.75.34:2302 \hostname\DayZ Zombie RPG - US (v1.7.1.1) dayzmod.com - Hosted by FoE\gamever\1.60.93825\numplayers\30\maxplayers\50\mapname\Chernarus
+94.242.227.22:2352 \hostname\DayZ - lu 5 (v1.7.1)beta 93701 [3dp:on ch:on] [UTC+2] dayzmod.com - hosted by stefman\gamever\1.60.93702\numplayers\1\maxplayers\40\mapname\Chernarus
+23.29.116.86:2302 \hostname\DayZ - US89 TX(v1.7.1/b93825) [SG-REG1] | STEAMGAMERS.COM\gamever\1.60.93825\numplayers\5\maxplayers\50\mapname\Chernarus
+199.116.113.81:2402 \hostname\DayZ Zombie RPG - Atlanta 8 (v1.7) dayzmod.com - Hosted by <FYAD> of Test Alliance Please Ignore\gamever\1.60.93825\numplayers\1\maxplayers\50\mapname\Chernarus
+95.154.113.76:2402 \hostname\DayZ - RU 24 (1.7.1.1/beta 93825) [VETERAN][GMT+11] dayzmod.com - hosted by inetvl.ru\gamever\1.60.93825\numplayers\8\maxplayers\50\mapname\Chernarus
+108.60.138.42:2314 \hostname\DayZ Zombie RPG - US75 (v1.7.1.0) dayzmod.com - Hosted by The New World Order\gamever\1.60.93825\numplayers\4\maxplayers\50\mapname\Chernarus
+201.82.255.124:2302 \hostname\DayZ RPG - Campinas SP [BRASIL] (v1.7.0/Beta 93825) [regular][GMT+4] dayzmod.com - hosted by CPS SP\gamever\1.60.93825\numplayers\1\maxplayers\30\mapname\Chernarus
+198.136.53.203:25000 \hostname\DayZ - US 48 (v1.7.1.1/Beta 93825) [VETERAN|3DP:ON|CH:OFF][GMT+5] dayzmod.com - hosted by bloodhero.net\gamever\1.60.93825\numplayers\8\maxplayers\50\mapname\Chernarus
+89.173.112.241:2302 \hostname\[HUN] DayZ 1.6.0.1 Server (NO-CDKey) [1.60 + Beta]\gamever\1.60.87548\numplayers\2\maxplayers\10\mapname\Chernarus
+94.242.227.30:2302 \hostname\Dayz RPG - LU7 1.7.1.1/93701 [3dp:on ch:on] by PlayClaw.com\gamever\1.60.93702\numplayers\7\maxplayers\30\mapname\Chernarus

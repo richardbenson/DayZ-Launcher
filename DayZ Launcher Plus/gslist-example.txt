@@ -1,0 +1,1 @@
+gslist -n arma2oapc -f "mission LIKE '%DayZ%'" -o 5 -X "\hostname\gamever\numplayers\maxplayers\mapname"
